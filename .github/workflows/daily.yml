@@ -1,0 +1,72 @@
+name: IPO Radar Global daily scan and publish
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '12 14 * * *'
+      timezone: 'Europe/Berlin'
+  push:
+    branches: [main]
+    paths-ignore:
+      - data/signals.json
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: ipo-radar-global
+  cancel-in-progress: false
+jobs:
+  scan_and_publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Test scanner and notification rules
+        run: python -m unittest discover -s tests -v
+      - name: Run global market scanner
+        env:
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+          ENABLE_GLOBAL_NEWS: '1'
+          ONESIGNAL_APP_ID: ${{ vars.ONESIGNAL_APP_ID }}
+          ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5-mini
+          APP_URL: ${{ vars.APP_URL }}
+        run: python scanner.py
+      - name: Save signals to the repository
+        run: |
+          git config user.name 'ipo-radar-bot'
+          git config user.email 'ipo-radar-bot@users.noreply.github.com'
+          git add data/signals.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh global IPO watchlist'
+            git push
+          fi
+      - name: Prepare public website, without code or secrets
+        env:
+          ONESIGNAL_APP_ID: ${{ vars.ONESIGNAL_APP_ID }}
+        run: |
+          mkdir -p _site/data
+          cp index.html manifest.webmanifest sw.js _site/
+          cp -r onesignal _site/
+          # Public app ID only; REST API key stays inside GitHub Secrets.
+          python -c "import os,json;json.dump({'app_id':os.environ.get('ONESIGNAL_APP_ID','')},open('_site/push-config.json','w'))"
+          cp -r assets _site/
+          cp data/signals.json _site/data/signals.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy on GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

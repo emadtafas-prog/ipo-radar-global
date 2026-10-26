@@ -14,13 +14,16 @@
 :root{font-family:system-ui,-apple-system,"Segoe UI",Tahoma,Arial,sans-serif;color-scheme:dark;--bg:#081120;--surface:#0f1d2f;--surface2:#15263a;--stroke:#253b51;--text:#e9f4fd;--muted:#9db4c6;--mint:#60e7b5;--blue:#7db8ff;--amber:#ffd38a;--red:#ffa6a6}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;background:radial-gradient(circle at 82% -12%,#1d4860 0,transparent 35%),var(--bg);color:var(--text);line-height:1.55;font-size:15px}button,input,select{font:inherit}button,select{cursor:pointer}a{color:var(--mint)}.wrap{max-width:1100px;margin:auto;padding:20px 20px 120px}.top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:2px 0 25px}.branding{display:flex;align-items:center;gap:12px}.brandlogo{width:45px;height:45px;border:1px solid #315a65;border-radius:15px;background:#173740;display:grid;place-items:center;flex-shrink:0}.brandlogo svg{width:28px;height:28px}.branding strong{font-size:18px;letter-spacing:-.3px;display:block}.branding small{display:block;color:var(--muted);font-size:11px}.ghost{background:var(--surface);border:1px solid var(--stroke);color:var(--text);border-radius:12px;padding:10px 13px}.ghost:disabled{opacity:.5;cursor:wait}.hero{background:linear-gradient(125deg,#0e2638,#102139 70%,#113d41);border:1px solid #2b5660;border-radius:24px;min-height:210px;padding:25px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:space-between;gap:10px}.hero .copy{position:relative;z-index:1}.eyebrow{font-size:12px;color:var(--mint);font-weight:700;letter-spacing:.2px}.hero h1{font-size:clamp(27px,5.5vw,43px);line-height:1.19;margin:10px 0 13px;letter-spacing:-.7px}.hero h1 em{font-style:normal;color:var(--mint)}.hero p{color:#b5ccdc;max-width:620px;font-size:14px;margin:0}.radar{height:170px;min-width:185px;display:grid;place-items:center;position:relative;opacity:.78}.radar::before,.radar::after{content:"";width:142px;height:142px;position:absolute;border:1px solid #70d9c250;border-radius:50%;box-shadow:0 0 0 33px #70d9c212,0 0 0 64px #70d9c20c}.radar::after{width:74px;height:74px;border-style:dashed;box-shadow:none}.beam{position:absolute;width:2px;height:70px;transform:rotate(43deg) translateY(-30px);background:linear-gradient(var(--mint),transparent);transform-origin:center 70px}.point{width:10px;height:10px;background:var(--mint);border-radius:50%;position:absolute;top:39px;right:48px;box-shadow:0 0 25px var(--mint)}.notice{margin-top:14px;padding:12px 15px;border:1px solid #6f5a37;background:#372b21;color:#ffdfae;border-radius:13px;font-size:12px}.notice.good{background:#102b2a;border-color:#306d60;color:#9bf1d3}.notice.error{background:#3a222b;border-color:#794552;color:#ffbcbd}.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:11px;margin:17px 0 27px}.stat{border:1px solid var(--stroke);background:var(--surface);border-radius:17px;padding:15px}.stat .k{display:block;color:var(--muted);font-size:12px}.stat strong{display:block;font-size:30px;line-height:1.2;margin:6px 0;font-variant-numeric:tabular-nums}.stat small{color:#90abc0;font-size:11px}.head{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:19px 0 13px}.head h2{font-size:20px;margin:0}.head p{color:var(--muted);font-size:12px;margin:4px 0 0}.last{color:var(--muted);font-size:12px}.toolbar{display:grid;grid-template-columns:1fr 190px 165px;gap:9px;margin:13px 0}.search{display:flex;align-items:center;background:var(--surface);border:1px solid var(--stroke);border-radius:13px;padding:0 13px}.search input{width:100%;min-width:0;background:none;border:0;outline:none;padding:12px 7px;color:var(--text)}.search input::placeholder{color:#7896aa}.choose{background:var(--surface);color:var(--text);border:1px solid var(--stroke);border-radius:13px;padding:10px 11px;min-width:0}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 17px}.tab{border:1px solid var(--stroke);border-radius:100px;color:#c1d0dc;background:#102136;padding:8px 13px;white-space:nowrap;font-size:12px}.tab.active{background:var(--mint);border-color:var(--mint);color:#063126;font-weight:750}.count{font-weight:700;font-size:11px;color:#a9bfd2;border:1px solid var(--stroke);border-radius:30px;padding:4px 9px}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.stock{background:linear-gradient(145deg,#13253a,#0e1d2f);border:1px solid var(--stroke);border-radius:20px;padding:18px;display:flex;flex-direction:column;min-width:0}.stock:hover{border-color:#4b7580}.stockhead{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}.stockhead h3{font-size:16px;line-height:1.55;margin:0;overflow-wrap:anywhere}.ticker{display:inline-block;direction:ltr;color:var(--muted);font-size:12px;margin:4px 0 0}.star{border:1px solid var(--stroke);background:#172a40;border-radius:11px;color:#afc2d5;width:38px;height:38px;flex-shrink:0;font-size:22px}.star.saved{color:var(--amber)}.labels{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}.label{border:1px solid #335969;background:#193142;color:#9fdced;border-radius:50px;padding:3px 9px;font-size:11px}.label.good{color:#9ef2d6;background:#183d36;border-color:#306d56}.label.warn{color:var(--amber);background:#40311f;border-color:#675037}.label.news{color:#bfb6ff;background:#292741;border-color:#4c4569}.data{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}.data small{color:#87a3bb;display:block;font-size:11px}.data b{font-size:13px;font-weight:600;display:block;overflow-wrap:anywhere;margin-top:3px}.description{font-size:12px;line-height:1.7;color:#b3c8d9;flex:1;margin:15px 0 14px;border-top:1px solid #304255;padding-top:12px}.ai{font-size:12px;color:#d5e2ef;border:1px solid #536275;background:#1a293b;border-radius:12px;padding:10px;margin:0 0 12px;white-space:pre-wrap}.ai strong{display:block;color:#8fdfca;margin-bottom:5px}.stockfoot{display:flex;gap:8px;justify-content:space-between;align-items:center;font-size:12px}.stockfoot a{display:inline-flex;align-items:center;gap:5px;word-break:break-word;text-decoration:none}.stockfoot span{font-size:11px;color:#7d9bad}.empty{text-align:center;border:1px dashed #3f586c;border-radius:18px;background:#101f31;color:var(--muted);padding:60px 20px;grid-column:1/-1}.empty strong{display:block;color:var(--text);margin:8px 0 3px}.tools{display:flex;gap:9px;flex-wrap:wrap}.infoSection{margin-top:28px}.infoGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.infocard{border:1px solid var(--stroke);background:#0d1c2d;border-radius:14px;padding:13px}.infocard strong{display:block;font-size:13px}.infocard p{color:#a7bbcf;font-size:12px;margin:5px 0 0}.dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-left:6px;background:#667c91}.dot.ok{background:var(--mint)}.dot.error{background:#fd9d9d}.dot.not_configured{background:#ffcd86}.bottominfo{font-size:12px;line-height:1.9;color:#94aabd;background:#111f30;border:1px solid var(--stroke);border-radius:14px;padding:16px;margin-top:25px}.nav{display:none}.pillDemo{display:inline-block;border-radius:20px;padding:2px 8px;margin:0 6px;color:#f3d08d;background:#513c24;font-size:11px}#installButton{display:none}.toggles{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap}.primary{border:0;background:var(--mint);color:#083329;border-radius:12px;font-weight:800;padding:10px 16px}.toggle{border:1px solid #3a6070;background:#173045;color:#c2d6e5;border-radius:12px;padding:10px 15px}.toggle.sel{border-color:var(--mint);color:var(--mint)}.hint{font-size:11px;color:#94aabd;margin-top:8px}.hidden{display:none!important}.muted{color:var(--muted)}
 @media(max-width:760px){.radar{min-width:110px;opacity:.36;position:absolute;left:-28px;top:14px}.hero{min-height:204px;padding:23px 19px}.hero h1{max-width:320px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.toolbar{grid-template-columns:1fr 1fr}.search{grid-column:1/-1}.cards{grid-template-columns:1fr}.infoGrid{grid-template-columns:repeat(2,minmax(0,1fr))}.wrap{padding:14px 15px 110px}.nav{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:6;align-items:center;justify-content:space-around;padding:8px 8px calc(9px + env(safe-area-inset-bottom));background:#0b1a2af5;border-top:1px solid #2a4759;backdrop-filter:blur(12px)}.nav button{min-width:70px;border:0;background:none;color:#9eb6ca;font-size:11px;padding:5px}.nav span{font-size:21px;display:block}.nav button.on{color:var(--mint)}.top .ghost{font-size:12px;padding:9px}.stock{padding:17px}}
-@media(max-width:350px){.toolbar{grid-template-columns:1fr}.search{grid-column:auto}.infoGrid{grid-template-columns:1fr}.hero h1{font-size:26px}.brandlogo{width:37px;height:37px}}
+.top{flex-wrap:wrap}.branding{min-width:0}.top .ghost{flex-shrink:0}@media(max-width:350px){.toolbar{grid-template-columns:1fr}.search{grid-column:auto}.infoGrid{grid-template-columns:1fr}.hero h1{font-size:26px}.brandlogo{width:37px;height:37px}}
+
+.pushBox{border:1px solid #32655c;background:linear-gradient(110deg,#123d39,#10283b);border-radius:17px;padding:16px;margin:19px 0;display:flex;justify-content:space-between;align-items:center;gap:13px;flex-wrap:wrap}.pushBox b{display:block;font-size:15px}.pushBox p{font-size:12px;color:#b4cbd1;margin:4px 0}.pushBox .primary{white-space:nowrap}.alertList{display:grid;gap:10px}.alertCard{display:flex;gap:12px;background:#0e2033;border:1px solid #254052;border-radius:14px;padding:13px 15px;justify-content:space-between;align-items:flex-start}.alertCard h3{font-size:14px;margin:0 0 5px}.alertCard p{font-size:12px;color:#adc4d5;margin:0 0 5px}.alertCard small{color:#8eb1c2;font-size:11px}.alertCard a{font-size:12px;white-space:nowrap}.miniCount{background:var(--mint);color:#072a23;border-radius:16px;font-size:11px;font-weight:800;padding:2px 6px;margin-inline-start:4px}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header class="top">
     <div class="branding"><div class="brandlogo"><svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><circle cx="24" cy="24" r="17" stroke="#60e7b5" stroke-width="2"/><circle cx="24" cy="24" r="10" stroke="#60e7b5" opacity=".6"/><path d="M24 24L35 11" stroke="#60e7b5" stroke-width="2.6" stroke-linecap="round"/><circle cx="35" cy="11" r="3" fill="#60e7b5"/></svg></div><div><strong dir="ltr">IPO Radar Global</strong><small>شركات جديدة · أسواق عالمية · مصادر واضحة</small></div></div>
+    <button id="noticeBtn" class="ghost" type="button" aria-label="الإشعارات داخل التطبيق">🔔 <span id="alertBadge"></span></button>
     <button id="refresh" class="ghost" type="button" aria-label="تحديث البيانات">↻ تحديث</button>
   </header>
   <section class="hero" aria-labelledby="heroTitle"><div class="copy">
@@ -30,6 +33,7 @@
     <div class="toggles"><button type="button" class="primary" id="liveBtn">البيانات الفعلية</button><button type="button" class="toggle" id="demoBtn">تجربة الواجهة</button><button type="button" class="toggle" id="installButton">⊕ تثبيت على الهاتف</button></div>
   </div><div class="radar" aria-hidden="true"><div class="beam"></div><span class="point"></span></div></section>
   <div id="banner" class="notice" role="status"></div>
+  <section class="pushBox" aria-label="إشعارات الهاتف"><div><b>🔔 تنبيهات IPO Radar على الموبايل</b><p id="pushStatus" role="status">مركز التنبيهات داخل التطبيق جاهز. إشعارات الهاتف تحتاج نشر الموقع وإعداد خدمة الإرسال.</p></div><button type="button" class="primary" id="pushBtn">تفعيل إشعارات الهاتف</button></section>
   <section class="stats" aria-label="إحصائيات الرادار">
     <div class="stat"><span class="k">الإصدارات / الاكتتابات</span><strong id="ipoCount">—</strong><small>ضمن البيانات المجموعة</small></div>
     <div class="stat"><span class="k">أوراق التسجيل</span><strong id="filingCount">—</strong><small>إشارة مبكرة فقط</small></div>
@@ -38,10 +42,11 @@
   </section>
   <div class="head" id="signals"><div><h2>إشارات السوق <span class="count" id="count">0</span></h2><p>فلتر حسب نوع المصدر أو المنطقة — ولا تفترض أن كل خبر فرصة شراء.</p></div><span id="updated" class="last"></span></div>
   <div class="toolbar"><label class="search">⌕ <input id="search" type="search" placeholder="ابحث باسم شركة، رمز أو عنوان خبر" autocomplete="off" aria-label="البحث"></label><select id="region" class="choose" aria-label="اختيار المنطقة"><option value="all">🌍 كل الأسواق</option></select><select id="sort" class="choose" aria-label="ترتيب النتائج"><option value="date">الأحدث أولاً</option><option value="official">الرسمية أولاً</option></select></div>
-  <nav class="tabs" aria-label="تصفية الإشارات"><button type="button" data-tab="all" class="tab active">الكل</button><button type="button" data-tab="ipo" class="tab">الاكتتابات</button><button type="button" data-tab="filing" class="tab">أوراق التسجيل</button><button type="button" data-tab="news" class="tab">الأخبار</button><button type="button" data-tab="saved" class="tab">★ المفضلة</button></nav>
+  <nav class="tabs" aria-label="تصفية الإشارات"><button type="button" data-tab="all" class="tab active">الكل</button><button type="button" data-tab="ipo" class="tab">الاكتتابات</button><button type="button" data-tab="filing" class="tab">أوراق التسجيل</button><button type="button" data-tab="news" class="tab">الأخبار</button><button type="button" data-tab="saved" class="tab">★ المفضلة</button><button id="goAlerts" type="button"><span>♧</span>التنبيهات</button></nav>
   <div id="cards" class="cards" aria-live="polite"></div>
+  <section class="infoSection" id="alertsPanel" aria-labelledby="alertTitle"><div class="head"><div><h2 id="alertTitle">🔔 مركز الإشعارات <span class="count" id="alertCount">0</span></h2><p>إشارات جديدة من مصادر رسمية فقط؛ هذا السجل ليس توصيات شراء.</p></div><button type="button" id="readAll" class="ghost">تحديد الكل كمقروء</button></div><div id="alerts" class="alertList" aria-live="polite"></div></section>
   <section class="infoSection" aria-labelledby="srcTitle"><div class="head"><div><h2 id="srcTitle">حالة مصادر البيانات</h2><p>وجود سوق بالقائمة لا يعني أن كل اكتتاباته تتم تغطيتها.</p></div><button class="ghost" id="export" type="button">⤓ تصدير المفضلة CSV</button></div><div id="sources" class="infoGrid"></div></section>
-  <footer class="bottominfo">⚠️ التطبيق يعرض إشارات بحث، وليس توصيات شراء أو أهداف أسعار. أوراق التسجيل ليست موعد إدراج. خبر صحفي لا يثبت وجود اكتتاب. متابعة الأسواق خارج أمريكا قد تكون غير مكتملة أو متأخرة، وبعض المصادر تحتاج مفاتيح أو قد تتغير بنيتها. لا تخزن كلمة مرور الوسيط أو مفاتيح API داخل الواجهة. <span dir="ltr">IPO Radar Global v3.1</span></footer>
+  <footer class="bottominfo">⚠️ التطبيق يعرض إشارات بحث، وليس توصيات شراء أو أهداف أسعار. أوراق التسجيل ليست موعد إدراج. خبر صحفي لا يثبت وجود اكتتاب. متابعة الأسواق خارج أمريكا قد تكون غير مكتملة أو متأخرة، وبعض المصادر تحتاج مفاتيح أو قد تتغير بنيتها. لا تخزن كلمة مرور الوسيط أو مفاتيح API داخل الواجهة. <span dir="ltr">IPO Radar Global v2.0</span></footer>
 </div>
 <nav class="nav" aria-label="شريط التنقل"><button class="on" data-mobile="all"><span>◉</span>الرادار</button><button data-mobile="ipo"><span>◷</span>الاكتتابات</button><button data-mobile="news"><span>▤</span>الأخبار</button><button data-mobile="saved"><span>★</span>المفضلة</button></nav>
 <script>
@@ -60,7 +65,11 @@ const safeUrl=s=>{try{const u=new URL(s);return u.protocol==='https:'?u.href:''}
 const storeKey='ipo-radar-global-favorites';
 let saved=[];try{const temp=JSON.parse(localStorage.getItem(storeKey)||'[]');saved=Array.isArray(temp)?temp:[]}catch{}
 const favorites=new Set(saved);
-let data={items:[],generated_at:null,source_errors:[],source_status:[]};let mode='live',tab='all',selectedRegion='all',sort='date',query='',loadError='';
+const alertsKey='ipo-radar-global-read-alerts';
+let readAlerts=[];try{const arr=JSON.parse(localStorage.getItem(alertsKey)||'[]');readAlerts=Array.isArray(arr)?arr:[]}catch{}
+const readSet=new Set(readAlerts);
+let pushConfig=null, OneSignalClient=null;
+let data={items:[],generated_at:null,source_errors:[],source_status:[],alerts:[]};let mode='live',tab='all',selectedRegion='all',sort='date',query='',loadError='';
 function mark(i){if(i.type==='news')return {txt:'خبر يحتاج تحقق',cls:'news'};if(i.type==='filing')return {txt:'تسجيل '+(i.filing_type||''),cls:'warn'};if(i.status==='listed')return {txt:'إدراج حديث',cls:'good'};if(i.status==='withdrawn')return {txt:'ملغى / مسحوب',cls:'warn'};if(i.status==='priced')return {txt:'طرح مسعّر (تحقق من التداول)',cls:'good'};return {txt:'طرح / إصدار مرتقب',cls:'good'}}
 function trust(i){if(i.confidence==='official')return {txt:'مصدر رسمي',cls:'good'};if(i.confidence==='calendar')return {txt:'تقويم تقديري',cls:'warn'};return {txt:'خبر إعلامي',cls:'news'}}
 function current(){return mode==='demo'?demo:(Array.isArray(data.items)?data.items:[])}
@@ -91,8 +100,66 @@ function render(){
    return `<article class="stock"><div class="stockhead"><div><h3>${esc(i.name)}</h3><span class="ticker">${esc(i.symbol||'الرمز غير معروف')}</span></div><button type="button" class="star ${favorites.has(i.key)?'saved':''}" data-save="${esc(i.key)}" aria-label="${favorites.has(i.key)?'إزالة من':'إضافة إلى'} المفضلة">${favorites.has(i.key)?'★':'☆'}</button></div><div class="labels"><span class="label ${t.cls}">${esc(t.txt)}</span><span class="label ${c.cls}">${esc(c.txt)}</span><span class="label">${esc(i.region_label||REGION_NAMES[i.region]||'غير محدد')}</span></div><div class="data"><div><small>تاريخ الحدث / الخبر</small><b dir="ltr">${esc(date)}</b></div><div><small>البورصة / سوق الإدراج</small><b>${esc(i.exchange||'غير محدد')}</b></div><div><small>سعر الطرح</small><b dir="ltr">${esc(price)}</b></div><div><small>المصدر</small><b>${esc(i.source||'غير معروف')}</b></div></div><p class="description">${esc(i.note||'تحتاج إلى بحث إضافي ومراجعة المعلومات الأصلية.')}<span style="display:block;margin-top:7px;font-size:11px;color:#89a5b7">${mode==='live'&&i.last_seen_at?'آخر رصد بالمصدر: '+esc(new Date(i.last_seen_at).toLocaleDateString('ar',{timeZone:'Europe/Berlin'})):''}</span></p>${i.ai?.text?`<div class="ai"><strong>✧ تحليل AI أولي</strong>${esc(i.ai.text)}</div>`:''}<div class="stockfoot">${link?`<a href="${esc(link)}" target="_blank" rel="noopener noreferrer">↗ افتح المصدر</a>`:'<span>بيانات تجريبية</span>'}<span>للبحث فقط</span></div></article>`
  }).join(''):'<div class="empty"><strong>ما في نتائج مطابقة حالياً</strong>جرّب سوقاً آخر أو فلتر مختلف. إذا كنت تستخدم النسخة المحلية، اضغط «تجربة الواجهة».</div>';
  document.querySelectorAll('[data-save]').forEach(btn=>btn.addEventListener('click',()=>{const key=btn.dataset.save;if(favorites.has(key))favorites.delete(key);else favorites.add(key);try{localStorage.setItem(storeKey,JSON.stringify([...favorites]))}catch{}render()}));
- renderSources();
+ renderSources();renderAlerts();
 }
+function renderAlerts(){
+ const all=mode==='demo'?[]:(Array.isArray(data.alerts)?data.alerts:[]);
+ const unread=all.filter(a=>!readSet.has(a.key)).length;
+ $('alertCount').textContent=all.length+' · '+unread+' غير مقروءة';
+ $('alertBadge').textContent=unread?unread:'';
+ $('alerts').innerHTML=all.length?all.slice(0,40).map(a=>{
+   const url=safeUrl(a.source_url);
+   const date=a.detected_at?new Date(a.detected_at).toLocaleString('ar',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Berlin'}):'';
+   return `<article class="alertCard"><div><h3>${readSet.has(a.key)?'◌':'●'} ${esc(a.title||'إشارة جديدة')} — ${esc(a.company)}</h3><p>${esc(a.region_label||'')} · ${a.kind==='filing'?'تسجيل رسمي، ليس طرحاً مؤكداً':'إدراج/إصدار من مصدر رسمي'} · ${esc(a.date||'الموعد غير معروف')}</p><small>اكتُشفت في ${esc(date)}</small></div>${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">المصدر ↗</a>`:''}</article>`
+ }).join(''):'<div class="empty"><strong>ما في تنبيهات جديدة بعد</strong>المركز يسجل الإشارات الرسمية التي تظهر بعد أول فحص ناجح. الأخبار غير المؤكدة لا تنشئ إشعاراً.</div>';
+}
+function openAlerts(){document.getElementById('alertsPanel').scrollIntoView({behavior:'smooth',block:'start'})}
+$('noticeBtn').addEventListener('click',openAlerts);
+$('goAlerts').addEventListener('click',openAlerts);
+$('readAll').addEventListener('click',()=>{
+ const list=Array.isArray(data.alerts)?data.alerts:[];
+ list.forEach(a=>readSet.add(a.key));
+ try{localStorage.setItem(alertsKey,JSON.stringify([...readSet].slice(-200)))}catch{}
+ renderAlerts();
+});
+async function initPush(){
+ if(location.protocol!=='https:'){ $('pushStatus').textContent='تفعيل الإشعارات يحتاج نشر التطبيق على HTTPS أولاً.';return null;}
+ if(!('serviceWorker' in navigator)||!('Notification' in window)){$('pushStatus').textContent='المتصفح الحالي لا يدعم إشعارات الويب.';return null;}
+ if(!pushConfig){
+   try{const r=await fetch('./push-config.json',{cache:'no-store'});pushConfig=await r.json()}catch{pushConfig={app_id:''}}
+ }
+ if(!pushConfig.app_id){$('pushStatus').textContent='التنبيهات داخل التطبيق تعمل. إشعارات الهاتف تحتاج ربط OneSignal بعد نشر الموقع.';return null;}
+ if(OneSignalClient)return OneSignalClient;
+ if(!window.__onesignalLoad){window.__onesignalLoad=new Promise((resolve,reject)=>{
+  window.OneSignalDeferred=window.OneSignalDeferred||[];
+  window.OneSignalDeferred.push(async OS=>{
+    try{
+      const serviceWorkerPath=new URL('./onesignal/OneSignalSDKWorker.js',location.href).pathname;
+      const serviceWorkerScope=new URL('./onesignal/',location.href).pathname;
+      await OS.init({appId:pushConfig.app_id, serviceWorkerPath,
+                     serviceWorkerParam:{scope:serviceWorkerScope},notifyButton:{enable:false}});
+      OneSignalClient=OS;resolve(OS)
+    }catch(e){reject(e)}
+  });
+  const script=document.createElement('script');script.src='https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js';script.defer=true;
+  script.onerror=()=>reject(new Error('تعذّر تحميل خدمة التنبيهات'));document.head.appendChild(script)
+ })}
+ return window.__onesignalLoad;
+}
+$('pushBtn').addEventListener('click',async()=>{
+ const button=$('pushBtn');button.disabled=true;
+ try{
+  const os=await initPush();if(!os)return;
+  if(Notification.permission==='denied'){ $('pushStatus').textContent='الإشعارات محظورة. فعّلها من إعدادات أذونات هذا الموقع في Chrome.';return;}
+  await os.Notifications.requestPermission();
+  if(Notification.permission==='granted'){
+   await os.User.PushSubscription.optIn();
+   $('pushStatus').textContent='✅ تم قبول إذن الإشعارات. تأكد من ظهور اشتراك جهازك في OneSignal بعد النشر.';
+   button.textContent='✓ إشعارات الهاتف مفعّلة';
+  } else {$('pushStatus').textContent='لم يتم منح إذن الإشعارات بعد. يمكنك المحاولة لاحقاً.';}
+ }catch(e){ $('pushStatus').textContent='تعذّر تفعيل إشعارات الهاتف: '+String(e?.message||e).slice(0,150); }
+ finally{button.disabled=false;}
+});
 function renderSources(){
  const el=$('sources');if(mode==='demo'){el.innerHTML='<div class="infocard"><strong>وضع العرض التجريبي</strong><p>لا توجد اتصالات مباشرة بالمصادر في وضع التجربة.</p></div>';return}
  const sources=Array.isArray(data.source_status)?data.source_status:[];
@@ -121,8 +188,11 @@ $('export').addEventListener('click',()=>{
 let deferredInstall=null;window.addEventListener('beforeinstallprompt',event=>{event.preventDefault();deferredInstall=event;$('installButton').style.display='inline-block'});
 $('installButton').addEventListener('click',async()=>{if(!deferredInstall){alert('على Android: افتح رابط الموقع عبر Chrome ثم القائمة ⋮ ← تثبيت التطبيق أو إضافة للشاشة الرئيسية. يجب نشر الموقع على HTTPS أولاً.');return}deferredInstall.prompt();await deferredInstall.userChoice;deferredInstall=null});
 if('serviceWorker' in navigator && (location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
+if(location.protocol==='https:')fetch('./push-config.json',{cache:'no-store'}).then(r=>r.json()).then(c=>{
+ pushConfig=c;
+ if(c.app_id){$('pushStatus').textContent='اضغط تفعيل إشعارات الهاتف، ثم وافق على الإذن.'}
+}).catch(()=>{});
 load();
 </script>
-<script defer src="./push.js"></script>
 </body>
 </html>
