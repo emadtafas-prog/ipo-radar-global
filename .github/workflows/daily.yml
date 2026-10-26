@@ -37,11 +37,11 @@ jobs:
           SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
           FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
           ENABLE_GLOBAL_NEWS: '1'
-          ONESIGNAL_APP_ID: ${{ vars.ONESIGNAL_APP_ID }}
+          ONESIGNAL_APP_ID: 'd9714898-4676-487d-9c34-3fa080124048'
           ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-5-mini
-          APP_URL: ${{ vars.APP_URL }}
+          APP_URL: 'https://emadtafas-prog.github.io/ipo-radar-global/'
         run: python scanner.py
       - name: Save signals to the repository
         run: |
@@ -54,7 +54,7 @@ jobs:
           fi
       - name: Prepare public website, without code or secrets
         env:
-          ONESIGNAL_APP_ID: ${{ vars.ONESIGNAL_APP_ID }}
+          ONESIGNAL_APP_ID: 'd9714898-4676-487d-9c34-3fa080124048'
         run: |
           mkdir -p _site/data
           cp index.html manifest.webmanifest sw.js _site/
