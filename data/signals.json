@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:41:04.525916+00:00",
+  "generated_at": "2026-10-26T19:13:58.375254+00:00",
   "description": "Official filings, exchange pages, calendars and clearly labeled unverified news — research leads only.",
   "active_sources": [
     "Euronext",
@@ -99,7 +99,7 @@
       "type": "news",
       "region": "CA",
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     {
       "name": "أخبار أستراليا",
@@ -113,7 +113,7 @@
       "type": "news",
       "region": "SG",
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     {
       "name": "أخبار البرازيل",
@@ -145,7 +145,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "اكتتاب قادم بحسب صفحة Euronext الرسمية؛ الموعد قابل للتعديل.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -168,7 +168,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -191,7 +191,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -214,7 +214,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDVYU2I4NGZocFUzTTdrN2doVWJ5eVF3ZFdhQnNxR2YzeEpfYlY0U193djNYU0MzYmRRa1lIQ3ozX1BpMXI0SXJrVFNXWnI5SFpoNWFDZEJKWjBWY2VEc09QOTlwam1BUHprUUxpcFY5bVZxcy1yZTM5MkhrekJ1eVY4VzdxVUdRUndhZVFOVTZsVnQ3WV9IZXhHWTBSQVVEU2ljblFBWVBVQ2V20gG8AUFVX3lxTE8tWkEyWTZjVWNuRlJBRFE2UkRTb0tDanFMLU9BM3Z2T3dDei1FUk9ESVJFSDA4QUpCcGpYV0hualktbE5FSXY0RkNHNDQ1Y0pUdUJQeVpWSldWTHNjMDducTNSdDRfMFVQa1ZxY0NiLXVHVnpUMFZ3MXVrbVA5MGx0TDhQUVNWY3dFbXdrekNlNzJVdW1vUldBaXFLT2F2a3huTzZKVzVZVEYxd3Q4ZVhBQ2Q3bjFpMS03WmtL?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -237,7 +237,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWZnZzRwMDRZNHpLSDN2Vjd4YkhWazE4U29pT0lER05aU2tDRGtYWFlJZ3JuM3hfd3FNS1gzY3lCeGxoa1BPbVZwTDc1dzh2RS1CYkNfWmJlcktmVFRnRS1aSl9RS3ZSTEE0MFZPUU1rSUFuUlFhd2JVSEhfbFVYNkxES1loNWN4N1NvRDhDbmhFYlZDZDVhdVdTQnMzM05HY1ZCUlVXcGxFZHAzOUFmWVRiTHNVVTRyNGg2WFUwVll6czlaalE?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -260,8 +260,146 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjVZT2VqSEQxWUQ4OXNrYkRUOTBSejViLUZvQVJrXzJ5VlNCTi00b3BwMExyZVFfSXVTanY4eXlzbi16eFFGdXpLbEdxdU9DWk1EYzJXcDA1SDB5cGkwdEVIb1pkRzJ3OGFiNzBKUWMzZWhZakUtWXh2WXEtOHdoWnM2NnV1VXpsZ1pzelVxWVRPM3BGM3ZaQnN6cXlGSkkzZXlESQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
+    },
+    {
+      "key": "news:2e9c11ae9a23344b",
+      "name": "Sembcorp Green Infra eyes $394M India IPO - Briefs Finance",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-26",
+      "date_label": null,
+      "exchange": "",
+      "region": "IN",
+      "region_label": "الهند",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "Briefs Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTmprRjhPMk5ybVNrbEpvQ0huTVF5RVN6bWZkRnJNbElYNHJoS2dNekRRc0JVSjZEQ2VDMTlRRWpHbVBsQ2dzQTJwVjNJZVMwRjR3ZUhLVXN2dHRCdm5ZdHBTNndIUm45Rk9xcUlwQndORXF2NVk2U2trMXhfS044RkN6M3dxVUt3SFdlZ0hvMlhCUQ?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
+    },
+    {
+      "key": "news:6d0739e3e2a6d7e9",
+      "name": "AI Server Supplier Dongshan Prices Hong Kong IPO Below Range - Finimize",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-26",
+      "date_label": null,
+      "exchange": "",
+      "region": "HK",
+      "region_label": "هونغ كونغ",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "Finimize",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcE1YTE0yNzFWQmZuc0RVSHJpeVpSMzZuWUNXbVU1M2l3TGtURW9tb2ZKU2VncThWaDhpNmxQb0x3TWdLdzRGVjh0Q1FVelJYTW1uYTBVV3JwRmx0SDBua3hFSHU2NEdHZndqTU1JcUZ2T3RKdTExUS0zYVd6WkpDajhhMTMxaDM4LUxVa0lRYXRiOWs?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
+    },
+    {
+      "key": "news:6267534a7c2a9b82",
+      "name": "Affordable humanoid robot maker Noetix reportedly files for Hong Kong IPO - TechNode",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-26",
+      "date_label": null,
+      "exchange": "",
+      "region": "HK",
+      "region_label": "هونغ كونغ",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "TechNode",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOektXUkczQXNkSXBTQ0t3MkE5R0hjeVV3MW9yTXZERzJjcFlYZGZCcDJ3SkJTNWpFbkZLT3JoMWhZUkg4QXBiUElUNzcweHZUUXJXWTlqNlhnenU2VkpNSWhkWlB3VWlmd3V6bWVkdURyWmU5UW5qWXZNVVp4S2tFRnMzckl4Q3hNM19WTjJlRGNWRno3ZXNMRUVHNkZRWWtwUUhPWDlZSld1QQ?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
+    },
+    {
+      "key": "news:f2ae4c155be989f4",
+      "name": "TSX opens higher as tech gains on Anthropic IPO filing - TradingView",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-26",
+      "date_label": null,
+      "exchange": "",
+      "region": "CA",
+      "region_label": "كندا",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTg4X2YxQUNFempIZ2dEZHY4SWtReVVoTnBJelRRZFFya1ozVF9XbF9qWmNMMGNqQTJNcm81M0UzejlmbC1FU0R4RFd0ZVZjZXpxb3l2cmNqT05zaVpOZlhvdm5heUlGSm9BYnRkbU9ncnVPWTc3RW9zbmJfMnBfUUp0RF9RNENpNThNZzJlWmthV21wdnZQakZzY3FEOWxYQjVqREVheVJLVENGSEdrWWpma3pFdmhnZUJTOEtzN0ROZw?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
+    },
+    {
+      "key": "news:b7b642ed50f9d3e5",
+      "name": "TSX climbs on tech gains after Anthropic's IPO filing, softer oil prices boost sentiment - marketscreener.com",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-26",
+      "date_label": null,
+      "exchange": "",
+      "region": "CA",
+      "region_label": "كندا",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYS0tcWIyd3RVYzZ4SzRnb1pIZHRTRjNLc1JNZlNCR0drODBycmVoalJwdkkyWmhiVFlZdHpFNVRpeEh2NjFuMFBuUDIzbjktcHNlQUFCemNOclZGTGxWanA0VkVHV25ScWxma3BrRU9POU9vQjFTWUE0UDdmdlNxVG9sZ3V2SDlNRGpMdlBfUTdRaGd2VXNpQ1JVcExRUjd3TzExWDZwRnRxVmhjYUozaDFmdFkwNk9tSzFZelF4SFdWZVluNUFVSWEtVkxfRTZqVXg2VURuNA?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
+    },
+    {
+      "key": "news:4032326b01225239",
+      "name": "TSX opens higher as tech gains on Anthropic IPO filing - www.marketscreener.com",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-26",
+      "date_label": null,
+      "exchange": "",
+      "region": "CA",
+      "region_label": "كندا",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "www.marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFpuSnNNbURrcFlVSFRnT19ueWZqRmRWdWV4cFVtTk12SnlSNnhtckQ2bF96LTBVUTFHUnMtUGZpeXZtOFhTMlFrQlFuYlg5YkpBVlY5b0tLejM4YkViWHhWM2pUbWVCYU55a1pBYS1HMHRXRWlUZEhOSk5yR200SmRPUzl1S1pGTmNuZDAweE9pTTlRWG5ZWlgycmppVTVIcHM0REs1RWZiSDg?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
       "key": "news:9abbeeb2bc156029",
@@ -306,7 +444,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVFZUGVoOF9sU2NPLVJERDljUTFSeUF6Zlc2NkJ1ZFRORnl4LTBMQThoTkxfUWNfNTNKeGRzM3hHTUhVTHNtQm1ibHdoTmtCOUItQ0VOVTR2SmhIdUIzNkZ6d0ktNEJ3X0tKeUp3N1RUSFd3YXU5eEtTU2dTNlR4ZURwZktjWDA?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -331,6 +469,29 @@
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
       "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
+    },
+    {
+      "key": "news:1795bf4a5c8142fb",
+      "name": "Singapore Feels the Cooling of Asia’s 2026 IPO Party - Bloomberg.com",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-24",
+      "date_label": null,
+      "exchange": "",
+      "region": "SG",
+      "region_label": "سنغافورة",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVRKTTRoOUl0X2psLVg0RFNaSmxHQ29yUVVoeDVGYUtLbXRqNGVvNVprVC1OcHBUaGducUs3Mk5Ybk8wT0lDQ0U5WFdhYnZHNnpPbm9BM1BYS19uMjlndXlZclBiZTJLN3FZT0tGQnZZX2FSaE1Wbm9ocVIwYTNrc2tuLUVfOWRrYjNFM3c2bzJwWFJrTTA4WkZnM1lGQlA0RGJoQXpxYjN1UQ?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
       "key": "news:6c0e9c944d69ae10",
@@ -375,7 +536,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORm9HTEs2RzV6VmpSZ2hsUFRIeXZVYlM4aDhVNWJuT1ZnbXFCUXlWTHJYelRrVjNRc1RKdXNaVE4xWkt4NDhrVHNVYnhTZFJYTVJqYmJJLW1aVDNYci1YLUhLRnlNR1FVMklITVRLVVhRSGFreDhPWHVCMWtrelRzMlY0bUFIVmM4WVJFLWJadzRaN0ZTcXNCZ2ZPdG1SMUlKM1VwQzdBTVVSQ0lVNVhsbzdCN2NHUQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -444,7 +605,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWtMWVZBczBlRjNGQkQ2M2NQUnFkbnVtUVUtMlY4czdDdG16RnQ4SUkzazJXOV9QNHkyNGlPUzROYzZkQmJmdUswMkFNdFlaejZxMTBjUHpnRXRLM29SeThzZVlhaWRueUplYmNjV2Z1eXZPbGpMejlSU21rWjVKNUlaU2pzbHV0YkpvdWh0S28xYi0wTk1wLWlSeXZEZHByeVJQaFVFUy1QUUVpZFF5Q3d3?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -467,7 +628,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWxwQXZndEhBbFVSak00WVNvb3M1bUNqUl9pcVZNZVV5Y2NnTXptT2J1MHJOV05yRExNMzZrRS16OUhHTTk3YkFhX3hfVkRFT21hM3RVZEJodnhNcGJ1OC0zR1Y5RDF5T1ltVFI0cWFIYlZkX0dIQUVIb1diRjMzXzRlR0g?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -490,7 +651,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYXRyTXdod3lNZ3R4UGY5YnRKOTZxTkJ2dlVKWml1dVVYc3ZPZDNmS0xkTHpkNGdnaExDMnpibllBRTJqSlFvZGNRMTFfdF9nTzBNQ0pLUQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -536,8 +697,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGtvVXVPampxZkRLbXc1NWFuMjdjTWZZLTQyZ0E2d0lrakhkSHBQRWh0bHR3Znk5V2x5R09nVndKNFMteDJJd1l0WXZNbXJ2bUp6WlFSWU9hOTl2NGc1VUpTcEIxNWRlaGx2YXREU1lIcTBCaVAxeEJ0MGhKRGJWUEpYRm1UQklicjZjcHJ5azBYWGU2TWd1dURyWFE?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
+    },
+    {
+      "key": "news:4fc412bc2d4881c0",
+      "name": "CATL-backed Noetix Robotics eyes Hong Kong IPO - Tech in Asia",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-23",
+      "date_label": null,
+      "exchange": "",
+      "region": "HK",
+      "region_label": "هونغ كونغ",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "Tech in Asia",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNampQa1pxRThBUmNnVlp3a1laUlpndVRETGdNclhTTmpLczNOQ09mYmdXaHhLU3MzZFU4YjFNNWRRc2tibExhRmFrU0lDVUlaakYweGlfdjFXSDdORHZzWXhfZkVRY0JKRmFiblpzMFBLUzRiT3ZqQkpTclNVSTNjcTV3LXM?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
       "key": "news:ae5f0bca2b08bb0a",
@@ -559,7 +743,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnhUbVI1VTNPN29jM2NGTXNTRlBPckJlYU52a2lMZmYzTl81NWdnbXZNNE9jX0FpR3lIZEIyUmdybFZGUW5jd0RCbG9SSXBGckQwU2MtR01qN2xSV2hnZTBIQmlWaEtha0Y1cjROdU9ySlNGbkRabHVEckdFdTF1UWFlcW5WRnJvMTNaQy1HNVZpSmxtLXpv?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -582,7 +766,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTctRk1tenZXQ2FFUzB6MjVNcDU5dnF2TGpvc2xPbVhIdThXQm14NlpsZTl4UjVUeXd5MzNqRWI3VThEUnB4RlRobFlVQ19GcmdQVVZGUHo2SXB6dkw4TTRnMm11R0ZVVUNVSGpjVVBad1g3RWk1d01QUFlTMlBMRTlSVFVMWHItcERfQmJReDdMSk5RS2kxUlVtclVfRENCOHU0Q2FqZHJVQVBKNzI1cGVsaVU0T3NweTVhZw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -628,7 +812,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0ZRSy1Cd0ZGVnFkZ1NCb19ESU4tQVBJaUVZV0NJcXktNzlaVnZCbjZYTGstOE5ZTDlocWxPVWp1UHRaOE5yYS1pcjY3TmR0SVRCWndzdW9Pb1U4Y1k3U3dpemdjVzJ1WG5obm4tcXAyQlhURE9SeWtySlNfZm5tYWZmanpmNVRR?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -651,7 +835,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVllMWG5NeTJZMy04dXU4aUFROGFzQmdoVE5SbUp1dGdGRkJGemtmYV9VOEpRdVNMb1c4cWZZQ1l3RllwY2FONTdMVzAydjdCVTJXQzhTYnJ6Zm5qTlZPekc0QTdwamg1XzVGZmxJSXhTUGZrOVUzMDkxdkprbzFBNFZ6cnBaV0Z6WWxVR0lYdHlQckRNYUU2U0tuOW1ycGlQMGlyZVFveDlXcmtidDdLcnM0aw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -674,8 +858,54 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUh2aUh6czlmOF9QUmYzdk1GVVNPcGJzaVdRSmlJTWxkSGlVd1IwcF9URWJkY21CcEJnYlFyaTVaZ3Q1eEhISXZLVHNGeWNQaVNwVXFUcDhtYXRVWUoxRWdRNWN1akRoQzlpX1hzT0lSNE5GejZfWHg4eVQyc2tPcA?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
+    },
+    {
+      "key": "news:f395e67e22d0ffff",
+      "name": "Microintelligence opens Hong Kong IPO to raise up to HKD 800 million - KrASIA",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-22",
+      "date_label": null,
+      "exchange": "",
+      "region": "HK",
+      "region_label": "هونغ كونغ",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "KrASIA",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHBvV2kza3NaVEJQenl3V2xnOWVKNzJNWWpqNE1rNV9nN0pyYTZpMWZudXE0T0xIY01HVnEwUUVUWXFQSHYtR204M1pFNlNvMTJMemIxNldtSVhZcjJuX0tNbmRtVlpqdWszMzJXclBKNUhVM1lZb1NXT0ZCSnR5bGxhLXlMclppRVF0U0ViS0FRdw?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
+    },
+    {
+      "key": "news:2cef4431d0724692",
+      "name": "Gulf investors turn to private M&A deals as IPO market stalls - Arabian Gulf Business Insight | AGBI",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-22",
+      "date_label": null,
+      "exchange": "",
+      "region": "AE",
+      "region_label": "الإمارات",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "Arabian Gulf Business Insight | AGBI",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHNKaXJpRld6N012dWJtV0ZHRE43NUVFSXhKZ1hEb2FDWnFib0VqQUhfVFh6OEhVU1NDVlVTVUlvREtPd0o5QUVkeHVVOUlzRlBYb1BKdElyYXRRbk5SQlpqZXFuSnFHcVV0cHhvYWJkSHM2Q05MZk5NWVV1Y3lvNm9TVmNrQkhHM3R6aG9ub0JvQTJQVmp5TE50cVpadGh6VXl3RXlvSGFvV00?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
       "key": "news:771eb0cebaf0e0b7",
@@ -697,7 +927,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnBNUnVwZVpBYkY3ZjBpN1F4R0xZbGdlWTJvZ091aDRkOFh5d1lRX1hwOE1oN0J5QUMydkYtakh3c3Y5bmRhTWdXS25hVjRuYkwwTnltaVFIU2EwZ3VGaFZLNmQzTnp2Vnl3cEphTm16VVJKVzlsVG0zcXp0dkt3Z2J4MnJqLTFUZmkzWWRPUXdXb2ZhaHNjaE1EckpKenpUbElFSUNrMHYzNzVDSEQxY1AzRDVlZlVrdzlUT3hWcw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -720,7 +950,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0JsYTQwTElodkhPckJPNXJpVlZUZlJUUVozdGRTay1OSVJVVThuWlhkUGZUY1k3bTh1VlBJWXMxdWxCQy1DaUZpXzZQVWJCRG1aOGhDWW1NZ3FRaUtlZElMLTBNNEd1Zlp0cWgzOHZxWk1SVUsyS2xYaU9GZTRtMUxJSXFIcENoRU1faVJCUGpOczhkQTBnV3hZcUFTRXR5MEROczM1dW5TaHRpVVVGTkktNnM0QkxNVUxJaWFsWWRKN09GVEJuaGlEb20?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -766,7 +996,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZW9PaEMzY1VuX3hST0pRQkNSVFh6cnBmMGozMERDcmZ2cGRkU0ZabHg1R0hYQWxSV2xRMW9WZ1BMS0I1a3VFdHJmNC1NMVZ3bTNOVkVCOVVTSkFiQWVmc1QybURCYjliRTEzWDZkSnJ6T2J4bmRDNy1TYjJiaWxwd29lRENLOHFRdnh4WDA4SlQ3RHFSOU51b0pPUDBublBtblh2UTZKaTBQM2c?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -789,7 +1019,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNi1DeXNaVjYwUHVfQ1FjVDJzdjZNNmQza3lhZ1cwc3FoNWYxMk5Pd0hPYjJEc3BOYkhLX0RyU21OWlZGQkVpOXhUMmdSSDVDUW1tS0t0LTNkRTg5SV9lbFFGaXM3ZzJWdVM5VVpQbUhTQUdUc3FGZ2NOdkdiWFU5Ui1tRzhUWlB0dFYwSDg2cDEtYUZEV3dz?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -812,7 +1042,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3J4Ti0zOUZSVS1RNVRqM25BaDA3WWNhSXJkeEgyRVVOXzVqRHYydXJNOEVFQlA3VXJLNzB1N2w2bFUwMnRJb0x6aXJMUWxlV3hybjFjckMxSjdIcGFSSGhoZG1rMURhaVEyckJGdTZsa2o1clZNUVpwa2FwZXd4Vm5Td21QSDRuSzI0Tlh5RGN2bDh5ODNzc3I4WXd6VU5SaWhSZg?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -835,7 +1065,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejdoT3gwajN5a2Q2aHBVNUl0MHpqczVUdlBjdzVGSXZkV3lXYmM1ZnNNMXY5bHgtU3M5RS0wM2NpZ1diVlRQS0RRajR6bkRxTWRFMzZaZWJabHBBZHN4MktFU05LaDY2NTJiVXRqSV85Mk9Wc3YwT0xaUjQydEE5N0VoZ3dIQmttYXNOU3I2UUppYnpQUHdpQ2Z5QTU2elVPT2lXUEo4aUdqdER3ZlHSAbMBQVVfeXFMT0V1OHlITjJNR19mT0ZVazJQWFMtQlVsMXhYMWdzWjYzOWF3NFpsTzM4MGJIdmZOcmQ4dUVZczZKVi1wQWNfdVVKQk9NcWcxNUJiUzZJMktGeVN3eFNqWFdnMG1KdElfTnBGcmNvaGlsWTRydDV2Q1hpbjVHQ0E1Yk5BeDF3QVR1Tm9MZGNQS3gxWDlCWTBZUE0yQnBJbmtlbS1CZjhZVWhZZWdOb0VSV1R4cUE?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -858,7 +1088,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZk5pQlV6c1hSTzliYng5d3hhYlJXcjZqbWZ3b0NOaUhvby1NaFpNb2lEc0c0QUJIelFpS09QdUY0VTYwcGhVUGxBTFVtTTJpV0NtVF9qYThDNU9PQkNEY09zZHI2a3lvZjZ0YTJmZlo1bzhGREZSejhQZ09IQjFxNFlNcUVPVTByTEFlelhrUHBBUjZpMWUxSElaRnNmZw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -881,7 +1111,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WTktxQ0JBT24taldRaXIxbElyRDRTcERPSGpJSW1Lc1pnaE5uT1otdWtsQm1DaDhPZnp5cFY2NkVWRmUzX2JrQnRHQ3lGM2pvdnBRSFpibk1jYTV3Q2kxSVFJZlpvMEhVZ3JYUVUtWHBaaU1XZmw0?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -904,8 +1134,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXJwTHNqNi1nRkdXMW5ZVy1henViOGJUQUF1YnRzQW1iMUxHd2tlWjg0Wmh5VzQ0UDZkQmlBU1hIOFhVekpVTXpGZTV0RXZ6QTc0NEd4LUNjeHNXT0hWWWk0UURVNGIyTjhFLVJ4c3lOVWhUMEw5TUpNQmQ5eWVuTWJkWlpKQWJfVktHZE9rUE1ydFExR1VzWEdJaHNCYnFLME9CejNnRUFGNEFkWjdtUWFmMGcyU3dXdmM3UjFnTmpPRTZLelg4YXVCZWR6Tnpsb0ZmSnRLaTZKbjJWTHV3?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
+    },
+    {
+      "key": "news:66e645cde90b4548",
+      "name": "Carlsberg said to near public filing for $700 million India IPO - cfo.economictimes.indiatimes.com",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-21",
+      "date_label": null,
+      "exchange": "",
+      "region": "IN",
+      "region_label": "الهند",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "cfo.economictimes.indiatimes.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOEx3Y2h2ejZpblFMYjdXN1FzdjczVzlhNGl2RUwxMU9KdGg0TUItbloza0YtZTRsUW92TFdsODR6VlU2N0QzV05oZV9sQjk5Ymt1Z1ZCNGg5VVlEd2lLZ2ktNTV5TlBMdmxKNk5EMGdLd0hOZm9jLURmYnVXVEhkSE9xQkFjVGFXZGs2akpCTmFfUjMyLWNLRmw4VTBhVHNaeVhDM3Z3VmhRWXA1bnJpUTROTTc2MnhRa3JDRGlrdnc1ck1KVEFBRGNJTUtFeWg3amNQU3piejgxSWU3bzNjYVd0Q2RidEFBMjVTbDF2NTRRTVNsbXBzeDZqX1lXNFNjUFB3RXgxQnlrYjJuem9CY2JKVU1CZ2ZNN3fSAdcBQVVfeXFMTS1fQlJ4c2xxTVMzTFBLM0d2YlJnMlhyMWx4MWVfV2oyNDh4VXpMOTdILVlLSFpMSmtzQTYtX1hsSVdLTFltNDkwWjZFXy16eDcwc01wT0FnVHA0dlhOR",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
       "key": "news:247531f38105bc8a",
@@ -927,7 +1180,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaU5nRkFIclBPX3pGbVFRVHlodWRJV1llWndFb2xNSXI4elZJSkpJalh6X1lmT3l1S0xXMC1KanFIbjNHOTZPbnFtbmJzZlh6STZkQ1A2OXNUSXdvMDdvOWpnNllNdnZ2NEh1TEFjRXRqbExscUs5d1duQlk0US1DTENQRWQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -950,7 +1203,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -973,7 +1226,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXdwSzVfNDZ3YVlwNmN2REZtREtXd0h0dEZCMmtsOEdDdWxORktWVWltLWl0ZWREN1dUQ0p5WGpjRXBkME9Ld0kxenpkTXJzckNKeEtyTnZoM0ZsUUNWWmx5UW9LbU8zN1RFWEVpb3dDSEFxTmdta3BYT1VWemtUZVFVX01zcHNHTkNLS1ZVZHlYb3F1bGZYZ0VTTE9VcEJ3LUNyVWprREFidw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -996,7 +1249,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SUmYwY3hjMmtTTVYxdEVPZmZfR2YzaW9KMWNESTBVVVpSV21fU3gxQzNaN3NBdkZmQkhPbjdZd05LQ2xOcmMwTU5KWU95U1ZaTEo0WldoLXhwdUtKV2lrZ2tpV1FOd2hmYUlZT0pGMzJ4VGxva3c?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1019,7 +1272,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPckxya1Z5Q1JEN0VQYWRYQk9VN0dvSW5UTXpFel9fUjQxWHJNZGUwQU5TZkFrRkRfR0xWVlJMeGg1UTh2cDVodkZMT2JuYlNNNDBhb3Axck03ZzFCTC12OGRuNDRBaWhBWmhac0pEWW1lVmhuVGhINmtEc0JKcl9mb2dKRmw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1042,7 +1295,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEhNM0RVT0R5dzVrS3RNNHg3aWNkWHlISjhqLWJ2OXpUV0k5QzFubzEzRGUyN1llNGpDWTNzeUlhX3EyX2UzWjE4RDNJdld6Y05SYkw5X2NPajVTU3UycW1yNF8zSGtoa0tUazZ3NjBqbm5WZk1VbnFzSGhlYUExc1NLOWhQMWRW?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1065,7 +1318,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1088,7 +1341,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHcEMwTzFMUDFPQ0pQNXJpMWNpcjNOLUwxNGhjOUVGS0NnUlJsdGEzRF9xbHdTVFNlb3hhcUlQaTU5UTBOREwtV1p5NHJwWWxaQ2RoOHgyaDBWak9pTFFyTTRqNjk2OG5Xa2hLVWl3b1ZGUEV4R280ZmNzSWx0NGM?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1111,7 +1364,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGxGQ2tMZlZqZzA0Z3NvYzd0R1VsaV9fZFZvT0ZnYThKbUd0MmFRbHBEOWZvVGlZMVdKaW5qLUZkSEEyRjNTMzRsSTRHUTZqVG5sSFU1Vk9TTG8xamNVcjYxTUp3Z3ZTamJ1dVNSUkR1M3dkNGQ2Xy1qZUQ2Y1JCTTBlZG9JNVZPVkl2VUhuLU9JQzdUX0xnSmJlRQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1134,7 +1387,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUDMzeHNvbnBISE9qNkstdG5aWUNGVGtFbnJFYnBmSWo2ckxObm8weEFDYVh0VzVYR2JQMDBaaWd6aXhMc1dNR1pjWWFITUpwTnB3Q0dtZWVma2U4dUo2N2RqY3pJc0ZyVU5xbkpEWnNPOC1iam9CUklmTUZxazNYYkRKWlhzaXRHQXUzaERSa0VfVGxUVjZaTmFIZUh6V0xQNGJqRnJ0X1hTTDQwWmw0VFE5Q0E5cEhhVW1n?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1157,7 +1410,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTlMeENIdUtEeU5zNS1HbzF0Y0FZQmlrQi1sUkxvcG8zYXAtNG1CS2JPdllBOTJqbkRkNXVwMjB1b2hLRW81WUlLckhHTGp4YVNveXJMMzhKMEpuZXZ3ZlR1RTJTRXU2TmFaakJFYVlESVFVZ1RsRXB1ZFgzTzQ3MVoyc1ZubWlXMm0yeFRvQXE4S1NnSlp0Q0xwX1NnQQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1180,7 +1433,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVdWa3doUDNuVnVrMUMwaW04cVdlYUlvX2dib29WUW9DUEdlMVpQQzJqMHp4di03dWFsZmlia1VLT2g0dXRSMHpoOGFsX1VReXBvTS1HbXVpdjMtUHJoWlEwNUZnODNmZXpZNFZjZkZVSnMzclpvRkZyVmktdDhQc1NJVFEyWHlMS3BHdFRtR1piTXRFOWhybmJVRQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1203,7 +1456,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnJhT0dMNmJNYTNMN2pSWnlhTXBXdkZTSFF1c3JhdnpGOVZ4TXN3Umh2MlczQ0xNN0s4MGJEM3hVTmU2RTFITGpWOWR6OHR4RlZCUFhJdWFldTg0SHlOYjREa3A3T2VJNzl5c0w0TldZSDFfQ2NVMXQyX1lnUXRxeFhkcG5nc0xDYUZQSnpONkJtNzNSZnZ4NFlZaC1USmtNRlFMekY4QTdYems?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1226,7 +1479,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Uy01bm5ZZXZxWk1hWGd4UlRfNUlvLXZ2VEJ2dnZud3RvSmdvMXNtdG94X0dhU0s5SWtld2JrWHc3Y0FmRU1WTndYQkZzbEtoVnd3?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:08:36.741568+00:00"
     },
     {
@@ -1249,8 +1502,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXBJb1Y3blYzZE1WdDBHZmI4a1VmTVUxVlBmWHJuS2Zyc3BzaFZJUDJ3a1V0UkNHSXZzMEQwWEItaDRiX2JkdlFTREU3QUtjd1NOQkF3NURsQ3N2RlV2ejRiajRLOEFmQmRWQ0JzUWNNS2JoQnB6OVhtR3AzVXgwWnhaSHJKNUtIcTJFcTFwQ0ZpUExhT3B1dlRKZndhdw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:08:36.741568+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:08:36.741568+00:00"
+    },
+    {
+      "key": "news:f608769e29619849",
+      "name": "OpenAI Jumps the Gun With $30 Billion Raise at Up to $1.4 Trillion Valuation, Looking to Upstage Anthropic's IPO - BigGo Finance",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-20",
+      "date_label": null,
+      "exchange": "",
+      "region": "AE",
+      "region_label": "الإمارات",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5b2h5ZFdsLXJDYnkzNlN5VXhUV2Rpck42UHhJUTBBTk9ITEJhOU9MM042OVFyQVpmc0FwQWtOZy1oQUJUbkR2c2YzNmlwRFJBLUd0bkNMU1h4bGxrR1R1TG1ZaFpSNTEwVkdDNUZudUF3a0NIc3c?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
+      "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
       "key": "news:e421ddb71d1bc74d",
@@ -1295,7 +1571,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1364,7 +1640,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhKRkw5d1dSQ2J4MWhqSjEtSVcyWC1rSTBYbXZKcXh1Sk5JQ0pXNjd6bDVRU2RZRGZRRVpVUzRSa2c3RTlJS1VodnY5RzBZLTVXQVFTbndOOWJyN3pVVTBvRVNlc1NQYndDcUpsRGs3dGFWUDFGWXI1V2lfaXM1d0szS1JZeFdxaU42bW1qbWM?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1387,7 +1663,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1410,7 +1686,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1433,7 +1709,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-26T10:41:04.525916+00:00",
+      "last_seen_at": "2026-10-26T19:13:58.375254+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     }
   ],
@@ -1496,6 +1772,18 @@
     "euronext:ac7561d3d51d3885",
     "euronext:e25804408c7e5c2a",
     "news:8878d7682e817f95",
-    "news:68294b33d2482600"
+    "news:68294b33d2482600",
+    "news:2e9c11ae9a23344b",
+    "news:6d0739e3e2a6d7e9",
+    "news:6267534a7c2a9b82",
+    "news:f2ae4c155be989f4",
+    "news:b7b642ed50f9d3e5",
+    "news:4032326b01225239",
+    "news:1795bf4a5c8142fb",
+    "news:4fc412bc2d4881c0",
+    "news:f395e67e22d0ffff",
+    "news:2cef4431d0724692",
+    "news:66e645cde90b4548",
+    "news:f608769e29619849"
   ]
 }
