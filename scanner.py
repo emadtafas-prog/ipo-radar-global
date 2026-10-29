@@ -390,7 +390,11 @@ def send_app_push(app_id, api_key, new_alerts, app_url=''):
     resp.raise_for_status()
     payload=resp.json()
     if not payload.get('id'):
-        raise ValueError('OneSignal did not return a notification id')
+        # OneSignal may return HTTP 200 with an errors array and no notification ID.
+        # Never log API credentials, request headers, or subscriber identifiers.
+        details=payload.get('errors') or payload.get('warnings') or payload.get('message') or 'no details'
+        detail=clean(str(details).replace(api_key,'[redacted]'),240)
+        raise ValueError('OneSignal did not return notification id: '+detail)
     return True
 
 
@@ -490,7 +494,7 @@ def run(now=None, data_path=None, collectors=None):
                 LOG.info('OneSignal app push sent: %d new leads',len(push_alerts))
         except Exception as exc:
             # A failure is visible in workflow logs; do not mark as sent.
-            LOG.warning('App push failed: %s', type(exc).__name__)
+            LOG.warning('App push failed (%s): %s', type(exc).__name__, clean(str(exc).replace(api_key,'[redacted]'),280))
     data={'generated_at':now.isoformat(), 'description':'Official filings, exchange pages, calendars and clearly labeled unverified news — research leads only.',
           'active_sources':[s['name'] for s in successful],
           'source_status':statuses,'source_errors':issues,'items':values,
