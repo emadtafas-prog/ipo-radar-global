@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:37:57.967175+00:00",
+  "generated_at": "2026-10-29T22:40:11.226266+00:00",
   "description": "Official filings, exchange pages, calendars and clearly labeled unverified news — research leads only.",
   "active_sources": [
     "Euronext",
@@ -106,14 +106,14 @@
       "type": "news",
       "region": "AU",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "name": "أخبار سنغافورة",
       "type": "news",
       "region": "SG",
       "status": "ok",
-      "count": 4
+      "count": 8
     },
     {
       "name": "أخبار البرازيل",
@@ -145,7 +145,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlVJLXZLa1drdVhYZWlCbGVDV3h3S2NreTVGZjF1VXlnaDBQNmVxejdyanNvNVdUdUc1NllYMmdWVm85eFBLZVpBTmI5YlhNVzN3cFRwWEY3ZjFoNDM2NTktRkFXU253azFJSDZPVlNnalNSMjdIeEF0UWMzRXVJM2ZtdXRUUmlkVEIxRHk3TE9uZTNNR1VLZ1o3djVXMzR0eS1MNVZTeEZuT3IybXlFMQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -168,7 +168,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0lxSjhTSHA4bTZLRTh0Y2xBdzRKUi1zUWZGZ2xUcDVUZ2MxakNCd05hV0NLXzlvR2F0c3VibjB3aHVldkh1d1gzZUllUUtOSFZLeXFqSWZrbTMwdU5JcFR5TTFwdlBGTHZvblJpaDNnbjJxRi1JX1kyS0NGVDQyRUZwWEtBVmJYZ3o3S2dpRHYtbGZSbkpreVZfVjFQQ3MyNTFYbEVUVDBmcWFMVW5VdWVn?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -214,7 +214,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZV8wQ1V1TjBnT2dvczhXVFdEY2w2Z2ZKYVpLaFJJQ3FwTnFPcGtvQ2FUb3NPdTMzWUNaSVBHb1gwazVWUFQxcTVWWmlJU1pJYi12RktuQVJxcUl2d25sNXhtbUVWaWdWbFF6S0xVSC0wVzlXU0l5U1g1RzFJc0NsUtIBlAFBVV95cUxONDhFZUVTS05LTmhJNUxkcEhoR0hFTDR6M05qWE9TcEY4Z1g5eEdhMVplNHc2UzhMZjE0Rzh6cjg0d3F5WExjSFhJQmNldkxuTi1CTHNnWmxvS0lRaklyVnNoSEFlVEx1QkFPWGpXSmxSZ1g0YmRRay1HMmVCLXhCWFV0VTNKVk1MSGN3a0JLY0RCcG81?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -237,7 +237,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQm4zOGtqSEIwcGl6MjdMZVg4S1lOTHVKSlQtMkVnb25pOU4yS2hnMENxTXdhMF9xcWJmUktvZXZnMGF3MTJaYWgyaW8yY1JUVUNLXzZmcXVRdDdjUmdFeHFEYVc1NDNQeG0xUHpMR2VnUHkwTFM2dUlKN3hmamkySk9ZR3N3c05HT3ZNX0NSNTkwejFjUGVtU3JjS29Udw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -260,7 +260,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWNYNEJFRF9RUUpKZlFEX1M2X3RXVk9pZXVzU25hMWNEU0p2RUd0WXJwc3IwbjFFU24tdnFLODkyMmRuS21TSWotc1lFamJoVVZoODhkVnN4VkNXQ0R6ZW5nd2YyZVJMdTJqWTNvZldxaUE1Rzh2dzJnb21IMDlxc1JyaVRSZjd5RW9ZZ2RQN3IwSndGdVNnUHExSkVwdjdPMWxsVU1CVDN2UWlRemRLZ0N3YmVwRXE0NHBXWGtCMWZscUh0OWdKeUVxZkxjQ01Vd1IzRzkxaExRZF9vRThEcENFc0o?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -283,7 +283,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3N5MnVsQWdaS05tQ2ozMkY1VjlJMkltUXJjd2FzYndkZEliV2pYeXNXN0kwM0pwRXlKSEVMNFpWQUVqUXJlamprQkllNG9JSF9kd2l2aGMyU3RjTFJUYW5NZzZwakhuQkFPbGdGOFFyVVViRnVlT3FXZTQwWVJDRUdfcXp2c21IY05FR3htaGZIZEtsZ1hQNFF2VVYyZHBMY0VqRlk2cy1IRm9reHJlX05LN01sMUprcGN5SFdR?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -306,7 +306,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTR4RVlZWFNLQWxYaUtFZTA1Y2kwVGxjNXNqeWpReUJVNUdMMWlxZTQtMTFfbkxSMDEtOGVPdk1rWDBDMEdmcTRFcVdtbm1vNWtCaDRTYVZ1dDdvd2lIZVJCaDRDN3d3ZVZXSGRCeUFZcHRTeVo5TXB0Q25TQUZJN2hWQTU2S05kdGNkejl5bE43RTBEN1JTNVFLVUhna3FjXzhqdTVaalNJQQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -329,7 +329,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXB5cUhCbWNPUkZ2WkFMc2d5c1pLRmwtLUIybEJvdGpYUDdwT3lOT1Mzd3FrV3VzZEJxeG1aSkE0VmtXLXBWNTBOd2UzLWVfd0lreHFxWmN1RzRHZndLMWxOaGpZNGJ1QzYwZlNpVENCQmRBQmJycjBORGMzZ18zdUowQ0RhU0ZoWUNhT2VtXy1QdVd5YVJtWGNXOFpOdDJqTlFmSWtzaGlhTTNkdnR2VTNwTzBSdw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T18:56:57.367599+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -352,7 +352,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00ejY4X3VsbzQ3a3ViWFBPdFphTDdrN3pwVkc2aTVRd2FqeUVoWlpSdVlqSEJYREZ3eTloeVAyMUxSMkt3Y09MYVJYSW8wSk9jSVRITkZqX3Q1ZWFvZUFHek1zeFVKVlJwTWxjOTZCLXA4SzZQYXc?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -375,7 +375,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHU4VnpENmhubElUTVBFdGZqTmlUMjlOZzM5Z3NnbXhJRmtnWEdwZGNsM3IzdTRzYk9QbmF1akcxQk1RbXdVNFdSS0VfR1M2VWQ1VFdtQmxUQ192M3IxanF3NFhUdHNLTzBfcjh6VzF4MDBiS0NyZ3psdUtYMWktVDREZE5KV1ZyOU83TlJQM2ZvMml6NGpGeG9EUmhzenFXMHFsWExfdE5NY05jQUJzbldWODZiUXpINzZN?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -398,7 +398,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIX0dad2dVTXZkTnVKbk1KMkctME9MdkxWOUs5NW40alFjT3RRVEY5b0wzdVZSZTNGNUQtS2ZhcGxaWE5NUmpwT3A5ZnZQQWx2Y2ZrWFJJV2xWbTJ1Q3NGOFhYbWlwVHFTR2k0enhkTmRyek9QUmZB?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T22:37:57.967175+00:00"
     },
     {
@@ -444,7 +444,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -467,7 +467,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GS0NGTnpOVWt5VERKdmR6bHdCUkNCNDlfem84UzdIZmdpQm9DcTh0MHZzVGxvQVJzQlFOU2xoaTVObzZncEVTMy14Y25Ia1FoSHhiUzZoTlh1TkUxWEl0MXNQb2JUOHc?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -490,7 +490,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTF0djdpNkdYem1HRlZiVlhjLWdaOWp5Z0lXaW9GWjNDcTlFZ0NESktIaFpfMGFDdmQtZUh5a0VuNUtILUhCSW0tbjMtajRadlkyUldxU2t4a29lLXhNTGxGNXNxRW1fRXQtSVlhVjNiUGhuSjRGUzcyRmtRckJFVUl5dW9jbzB1NDZpdnVYY0hVLWtkaUtwUGVEMWFEN21iajRwMjQ3NnUtbXg5cHdMMXgzaUttQQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -513,7 +513,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkozOENxTExJSm9xVl9IXzkwWlhlclE5bnpKemg5T1BhZWxaVm9zejI5SHdRZzlibndTNTVNVGlxUXNGVkVadkxwTmZFWHpaWklGOU1PTlREdG1rTC1Uc0pZZkRiM05ERjloZGVkeXZlWjAwOGVrbmViTFZCZk9fS0NNOGZXQXFQVDVxNFNNd0RvaV9NOHZwOUNmVXRtUHM?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -536,7 +536,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU3N2UGtSRnFOaHNvOTlrZm1nTHhWbllaUGxpMXdfVWstTTJ3dHg5dlRsVXVkQVhJZTNaNWNwUThGbk5zZUdzTUVscGR1LXBhSHpKZVBFYkhnUGpGOFltWFVKOXNYQWh4TVkyWFFQVWp2ZFFRSTN1bGROTzRzVC1NaUUyaTQxeXUzVFJxVnBDYnEwdzlPN1BCRl83TGVlZXJjLWFJSmduTnNERzhWMmJuUWtvdTRNWGQzaWVYY1JSQ1I5dFhSRWkzLXItZ1R5MXdDWi1OTWg3TmFFSE5BV1E?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -559,7 +559,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObE0tZzI0U2ZRTmNtSFA4TVlBandnbXVKbmVPTDhOT2hseWtUb0pCYzVBWlB0dDJ3Z05WZlZnUkxObVI0aEFydWd6R0VqUndVYjlZeGVCWHVDQllha1BCd3k0eDN6X0tFcXE4U3VZdWdIQzNsMjgtSHVrMWdNRk1jTmJ4VUVHTkVMcS1mc2ZFZll2ZUNVek1JUUk5Y19acGFqNzY3ZmZCaTNudjBtZ1VXa3VWRUszVUI2TldDa0VGNFl6eGFTVUNlMHJoX3hrWXNUY3lrX2lkZTdtUFNmN01xUUFVRVNDV2vSAewBQVVfeXFMUEwxOHJmN045LTZad3RqT2luQ0h3d3lPdkQzb1JvdVE1ZDRGQnFDaTFFRUk1Vk9CVURvamszbHVhSU9qem9Dcmo5RGoxUWI2YWl3bjA2OGpIWEY0cHlMUGFsWVM4dm96MzY3dWZ5V0xHUUx3aTF3NWlGRkVsTzNEdHJqcURJbjF6RW1GWGZnWVdvZ",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -628,7 +628,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOElqWnlGY2p1cUNhT2s1VGQ3SHEwNjhuZU85STRpdE0ydW9NNEhUa3RzUTdIdm4yX0NfZllqS253UVREY2FUTGJZa1Q5d3plSGJ1aTR2NzFIVk1QLXZGNlZQQm5Gelp3T0NFeWQ5bndnaTNRSTFPcXBiRDdiV3Uyb3BadGJZR3ZHcE54dk0wTk5VbWhHWE9udVBRcDVJd2tHVnNOdFY2VEplblpTczd2eFN1NzZ0NmZ2dFBrSGw1UXBBQi1GX2F3UUhneHlHM0RtQ056UkptOW85Nnd6dGp6QQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -651,7 +651,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVlJWXMybDluazJiVlUtTTZJd1JhZkZsNndLemxxYXo0R21PUUZvVW9TQ0N6S2YyQ2dTR0dTZHFDeENraVN2ekNXLUNHbWhxejdkektxVklYX0xiNGVHU0VPM3VDT0V6UnlsazU3Z1V5dDdCVjlYc0ZsZ3d5VmY1Nk1ZNnhMdVBxYlUwenJ1WFBOcFFROHNCaEdqaEk3NUcyWlJPRXl4dktXN3dhVGpCYnVna21odw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -674,7 +674,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHVvYVl4WXVlcDQ4TlJMZlRCamJrdlBKT0hhNUg2R2hUY3BWSG1XRllNaDExQU15SDcxUWRvYTdSX2ZBb0xIRHd0elUtWmVJaHlRbk9rckdKN0FybmphU1dJVTJjSktEbVluN0w2d1lyUkpLM0JLRUhRSEh2Q2lzaTZweUZWaTdzeVE?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -697,7 +697,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMER1ODQyRW11djc1cmZqS2tObmFsQklnOC1vbFF6T0o2OEVFbkhIbEs1T1RQMlFjeVFGMWtyTVA5R0l6MnNXbmpkZ2xqWF8zbzFWd0FELXVTbkVYM0syLWE2V0ltTlVuVzBIZDJoNmlmMW00Q25XcmZHRDBMUm9lM3E1U3RXazR4dDJ1Q3N5WHA5SEREZ1BtTS16N1BJQm1uc0hQTlAzRFltaHpWd0ZKZ3B2LXpMVWp2dG9vT1hVNWc1b0xN?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -720,7 +720,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PQnhaWThudXdrUk9uWHVtT29Zd1NCRzNIYVBib2hOYXlLSnBuemJHdmxZS2ZwdEd0S3F1ZUotN01EUDVlaTl2U0pzenlyU2ZR?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -743,7 +743,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzNrek9tWkVYdVFmd2FtQ3JuYnltYzgwTU84b0hDZU1QaWRKVktQSFV2S2tVQXRLRGVJbV9Fa1lOSTZIQjJHcHBTWUEySGh2TXhJMnpOUFNsaWI3dnF3ZVdzY0pRMmFuQW5vMl80QWxxY3VYMmpfUURZeTU5ZktiUXNvUUdSVndaYXdDMVZickZRdGpOUTNNdmpBOURNaGlWZUpETEZLLVpNTHZu?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -766,7 +766,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0pfalBQaXl1Tnh0TkxneVlXd2VDRTdJMTBWOThkNFByQ3N5a0pqRHRmbTJBN2VVdUdnNnd6d0s3aVhjLVQzazZ6NWVtcEo3QjQ1TXZBSmQ1ZXEzMnZFbTl1MjU3cWtsVkRjNjZjNzJUUGFRbkxpUHFIT3oxZHVpMl8tR1F2VXU0eUtTN0lZMVVCWGdhbFprcmIyQmdtMWtYUkpzSFhZSnVNVzNQaUoyYnNwWnZ6eTFUS1U0?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -789,7 +789,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemJ3SDJpUHAwMHFCYjRlS3dKN0lDQmtzT3JoVWRiSTdkSEhEZWk1Qlp3Sm5HUzE2WFpjSG1HWUlqNWVsNklTaU15ZEJndGtXc2k2U19GY0R4YWJFYUZheGk4VVVCYVhLNEl2MEFoWUp2QW51X2MyNkdUR2JYeFd6Slp1QUdJb1F1bnJtdG5LZmZvSVJfLXpXclVmRjlNcEJkSkd3dFRB?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -812,7 +812,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNnT3pCTE05Vl91aV9kNDcxekRUTjh5OFhrcXpaRzI0UGw3TWE4WlhHdm1id1JOUTVfdDlMMjhZX2pqYTF4UHFNRDk0ems0aFFoYTJEUkJiZU5iLVV3V2NVMExEelI4SWowOTJGdGN3cFhGSG1BcWlmQWdYdTNpNFg2MUcwTVByajJtdnZhekZxSWxtOFVuRjZkTThEekNPVDBCSGJhUnNTQQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -835,7 +835,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4UGwzeE1KcFhLblA3YTlvanY1MWVBdTk4dkNYRkZ2b290cFFrckE2VjZVdGJVYWJBQjhTVmhuVklJTzRqNW1OMk9ZWlIxYTUxbmg5Skt6QXJXQVFJUHhJeTJsQXVNSWNWNkdOSnktSDA3VjZzNWc?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -858,7 +858,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVg3T0EwT2dHU1JlelJ0cWFEN3FyeGp2RGNCdlRYdy1oSXpEM1gxVk1La18ySXlXZ2FFdmo0ZDhGTXIyOHBGQjdUcWZhaGFUYnowdVFHc1JMN2ZwcWMtbnEza1NoeFJ1bVpOY19pYklNdk5YcXF0WGZtMjV6Mk1CMlA3SGRWdXYtR0tfeTFISXp2YkgxZHAyZVFfbDlURXN4SVV3UjdzX0EzODJISGN5WnNPMjNtcnJtMXRJVDFNTVpIT1ln?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -881,7 +881,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUxLR1NVYjBZZExDUFJXcUhlSWhQeDAyM3dRUU9lRlppS1RYYlplNDdtYmZFUEtoZTVkQXRRdTRQOXh2cnNIU2c1MjZiTnpHWGdaNnJ3NjBmQmZtRnc0T1YtOUc0MktDZjBOaW82dGc5VFJLS1ctTFAzZlExeEtoRW5RcWd5WjZLYjh2bVBDeElidzJCTzZTczBpQjVBc3RwUGRtRFJHWFQ0Ym0yWkk1czgxVWdRWVEwZ1Y1ZmZMYUk5ei00RzZz?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -904,7 +904,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjBTd25rYWZ6RW5vcWVycmp5djhxb1lZeEtlXzk1eUpkY0hZZDlrYTFvNDk0a2VTMGdEcnU3NHBTdWlmYmIwX0RKV0JDYmpiQkFuR3JYTV8wRHU5dHhvVDBUejNTc05XZFZaY2dtM1pXVDRMUF9tWllOcE5ESjN0d3FUNjIzbEItMUxrQg?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T18:56:57.367599+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -927,7 +927,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzB5ZTM5cEVfVXZNMkwweWNRVUNDSVVweUh6ajN3NEZOdk1YdFlwc2d3VXpsSUhxdXYtdnJzZVkzRnVUbmxaZkRJcmhCY3hqdzAtZDJ2MzBPYUtkdF81NzJzbmtkcko5ZENMUFFDQlAzRHFFcGFsZmZPTWhuVzZfaERNcE5Mdjh2QmNxMWMzR0lzQQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -950,7 +950,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFRmVGo3Q0YwVk1PZVhBd3NxNnM5THdkRU42a2puTDVHa1BBcmstUkxVdnY3TVRKRFFRZlpReEh3UFJUS3NnWHRNMkotcU84WmFoamdGeXl4WlU5WU80dzhyQWp0cERYblY4S1BMTFJJdTRQREVJRDRMamE4ZVJkY2llQWZ6UQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T18:56:57.367599+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -973,7 +973,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -996,7 +996,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMTZnWVo2SG5SVEpyT05CcDM4OG1KRl9lZ0J1MF9oeEt0QU1NbzRQZldYN2lRUmo0ZllTem1TN3pZbGxzbnBBU1QyVTJkOVFZWWNmNm9MU3ZQRWIxa1RzRFJIVU5ia3pvemJRejg1bDJtUndwOWM4UUxkTUdVUjJVclFxQmpwR1BxcFhRZGFpZDZnRDVnTVVPWE40MnlDNENGcTA5SXU3d01jZTdxZmI1T2lJclhqXzhzZ0dFV01xN1VOUXduTXJTWEdOdzNxd9IBzgFBVV95cUxNMTZnWVo2SG5SVEpyT05CcDM4OG1KRl9lZ0J1MF9oeEt0QU1NbzRQZldYN2lRUmo0ZllTem1TN3pZbGxzbnBBU1QyVTJkOVFZWWNmNm9MU3ZQRWIxa1RzRFJIVU5ia3pvemJRejg1bDJtUndwOWM4UUxkTUdVUjJVclFxQmpwR1BxcFhRZGFpZDZnRDVnTVVPWE40MnlDNENGcTA5SXU3d01jZ",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1111,7 +1111,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUxQWUVIdDNyLW9XRWdsZF9zX0VwV01RZWhxeTN6QlEtMGdaRXY0NHZTQWo3ZnhDcVVIYmFjMGxsSm54aEgwYVl3WTNiRDFodFhjcGRhTXJvT09XY3BsckF5ZWxtV09FR09xalNwMkxNUU8zWnNHWkhTSU5ESC1oVm9FQ0U2Y2JUWWxEbjIyNkMtOTdzdTRtd2pzTnM?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1134,7 +1134,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRk53dkdMYVd6NU5wYThud1F4LWE1YmdiRkJNeU5kSWd4Z1h2dnAtT2tYa0FZU3BDcGF0RmpxWFNGSnFlV0F5RVVhY1lXT0luaEJyb1VrcVFaZVpfWDYtckd2TUg4MVpTYTV0TjlORWgxRHB5TlpvQVdVdDR2ZU1iN1RYckVtZjdlTTJxcFdSYVVoSnpXN3l4Nl8zcG54cXlFNk12VkhOcld2Uy1FVGlIUFlKb292ell2MER0QTFpckh4RHZKUFRkNtIB4wFBVV95cUxOZWMxaWZ1cTlVREpQdXo2MEx5RDBWdTFFdERWREs0a1VTUmd2Z2RGazNWa1ZCbFBZUE51QjkzTmRET0JBbFY1RTI4QUkxT2ZnV2ZwbmF1UHZucHByVDdISDJ4enl5ZGM4TEVsOVpCdVo0dFkydWxTeUxhb1FRZEpyMXkzMFdRSXZQZUxFdzJWVnJac29tRHRPaWQ4M1J0YkdlTnpwS19RbXRoUk5UMDAxV",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1157,7 +1157,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEQtZlBRYlRLUW82QkU4a1dVdjg5WFZXN3BSQldMZ0VUMThsX0VTVmRvV21aeVlhSXlBaEJRUXlzTGMzWm1xSy1tTjBZUVYtSDVpNkhDNVBQSDlkUHpKUlZwVlBCWG5GOUtfTmFxLTNJMHNNWkFVV0t3bENvTXhjZVZQMXllNnNJUkpmNS16MTI5Sk5IdjE4ckdmeC1TMzYwMTZPeG1rc1pKaFViNkFvN2ZxVTl2bFE0S1VfRHo5bkVLX3NmQmc?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1180,7 +1180,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDZ294SFhhb053cVd0V3FUX0tyZ3A1ZHJneGJOWWhYd0RySkQ0VVpkUThGWGdSZVhyb1YyMHJBQ0l4YktqZWo3Mm9yS18yY2ZteUlDRG1FTjR0eG43NWl6amRaWUs?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1203,7 +1203,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzFMODg5WFVaclNBcThjdkNsN0lIdzJ2cGRFUkxfV0N2ZjdORGlwdHJ1X2xrXzFMcWFTY0Z3dV9iUmFCQVFpaG1Yd3BUYjdhMTRuOURmVm5Fbkc4aUZyTmFhZXFoRDVYWDNYdV90ZGtIcmQ4Nm9kRXFNX1Mxb1FUWk5MUjByNXhzdUszWDc0bU54N0dITVI1ZlBEMWktQ01XaHM5TEg2VS1RTFE?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1226,7 +1226,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUpZVDhtbmZ0Q1g4NUt6UmxIZVJYY2IwM2ZqZkg1YlhZTVdSelRNODFncllfTG9ob21EalZlV3hVR1hDUjVJQ1Y3Y19Yd3V5ekpnWGpRTlZoelJreE01Ymk4Ti03SzlpcHdoc0RpWTZCc1dnOVVJcHNiM3U2WlVPcHNEOEFoMFJRbzdPb0FTV292TV9tNHRPX08tbVFxZm9QZ3lEOWZjYWx1VDRQRDZXdnFvOUw1aE4xQ3FlTE9JZGRWWkg0S1VPVFNhZ1c?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1249,7 +1249,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm8tMUpsM3dyZG9iNU0xdnRyRms1WC00eEdWSnp6MWQ4T0dGbGx5VW0tR1R2b1lJbVJlYUJCdE8tYkdNeFdrZTZUU3lDR2lGT1l3bGczNTlMQ3ZCZVdEdFFBWGFxbXY3a2lXdjhqeS1xb1A2Qy1Xb1lScktwSVJjUkpMU3pVSW1RRnA0MTg2ZmtfNnlBaC1HSllwNms0bFFGRl85LXNKMl96X2ZmNTJ3d1dScWlnQQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1295,7 +1295,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZGZCelhNVE0wczc3M29vazhJZ1NMVmhlcTM2NzNtY3U3b0ZjWEJUTFkxOTNpOGVCZUphbFc4SUIxRFRoemppN3R0QWVGQ2tV?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1318,7 +1318,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU05UME1TSEswNW42TlplYjA0ek1zMHJibHBnNkUyZWJTZmdpLW04MkhMc3Q0S1JVZzk2OEhyQjhXOEVCQUpMYlZOUW9uMWZCUjVhZW8tVjVwMkpISzRzeGdObW1FU0FHRTl1TTUtdXU0R0dNN3ZSbDJOd2tiTno0c3dXbUlnb3A5N1A3ZnZCZF80MTUtNU9yUm5UYzlicGNGTnhOZncwT2V2UmszNG10emN0SlJiSndS?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1341,7 +1341,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83UmxhZEJTb19EdHN1UFBCUjhBcFFZSXNlejRWOWFHTG9YSnF1bmJrUHV6c29JaXdPN0U2TVFmbFhGbUVmc1pTWGhIbzV6ZlRO?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1364,7 +1364,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFEtMEJLc2thN09BaUx0SVk1TEFRR2V0eWlnSmVkTmxNLVhfdEwyRy1IVWdVS3BHNGJheFh5U0VTYVdLSV9Lbm1ZUnFCdHRCVFBwWEVuYzlhbGdUaWM1TjN2QUFMazg3MHZDN1k3UTMtNWU2N05VZy1CVTl1elF4M0dKNzJGYVd5bzNFNG9uT3NjNkN5Y0Z6ejNwd05uVUZMMXRSTUs2WkJPVW94Znc?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1387,7 +1387,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVlNekhhOUNFTEpZOW9SNk9sMElzbHBYeVVuYjlqXzhvR3I3UGxiQ1A4QUVPUWpFUVdlUmxVNk1zTDNyRVI2YzRXSlBleEV6el9SdkQycUVvdElXSW01MnFBbl9HRnZOSDdzYTlEWFoxOTYxX0poaTFjNzRuQkdXTzRWaURQOU5qOVBLUWNKY0JjamtZX2lfMEExY0hBZUhYSW1iaHdHY0VyajVxZHFNeVVvbWJZZ9IBuwFBVV95cUxOX0RDdlhsSnVKc20zdUxxSU44YzBUVXhIajVmWUpLemJ2cVlBUU5Ydi01ZmZtb25iU0xuSERkN3o5bmVVMGNLZmEtT1hDZ055eERYSHVzRHhpYlFIcjlld29BTzBJLVZQa2t3WjF3cTJmV19KaTNrYmFGcjhPTURfYkJDS1NBMjlQa0lkaC1GeGZYTWhXZlBBZGZsVXFqNFdQcDVLM3ZRNWJseFJvdXRpZHg3T21tdjJrcEVj?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1410,7 +1410,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DWmVwN3BXZW9ETTBNLTVBcUNGRTV3VEtxSFNLc2p1WFFxY2NaYnVBbm9Bdm9GZ24zT2Q4M05wRmVlb09lYllSQVFwNS04UlhqSlNwR21Qaw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1433,7 +1433,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzB6SXRpUnVTRjRnekwxalZCN2JrRVByUHhzMEVCWHBxdWdnNG9pZmN3VGU2RUxvWUtfQldjOWxGYWFRNkdTeUUyYW9Md3R3X2VOZ3V1MmZZS2dPekZKdC1tbTBOZk1qS2lNdDIzaWE1aWVfOG5sNFVvV0pHTWZ3d2VIZTBGdnFfYWhDT3JicUlCZUlSVzNmb1pKZXIwektxd3hUNkhmSUhQVmNs?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1456,7 +1456,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkZYcVZJUzFwdV93UzJIT09xSGxVRU5YWWk1NkdINnducGVVQ0RNRWFjU1d3V2JZZWFCcmlEdExOSW9ybUU2Rm9md2VZUG5EZmE4cExIM1Y5djdrUGRxUlpUX252N0pWeUJqY0t2aHlzaE13b2syNWwxcGRsQW0xRUxBSkVEcEF0MXE2b29WZEFhZktWXzJCeS1tOWRIMkxGSk9Qeld3c2h6QkEydVR2Nkh5UWtSQ0ZG?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T18:56:57.367599+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1479,7 +1479,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmRPc0h5eE5HRUxUSm9NaWVRLUxmOGtYR2JObzBXanVvSXR3ZUJ1aXFDbHFfaS1naDVXYkdQWDNKc204Skc1RktNTzBkeFRUaE05SU05cFZKdGZ6NGR0QnFrMnh2VEp1b2Myckx2MXpKM0dGUmV4ZGNPNk5rdmFQN0pZcGQ3V3lfaDEza3oxTE9TeEk0djJaTXRubk4?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -1502,7 +1502,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWThWYktrRHlLalBudWNXbV9jNlFldGdmV0otREdMdjZ2bXRvTm4xeHdWWVF1Z3NiaTRjNVdISVU2Q0tMdjdyNnBMTlR0Ui1oVGlnSk1RN2xkeHQyWUZZd1A1QkdveG4tSzUxNzd0LU9pdFpMbDNUblhMSGxDNkg3YXNNMWhzWlFZ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -1525,7 +1525,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTy1uRW1sNmNzQWdDM1d3b2hDVWtISE10YVRqTXJFdlQ4ejVKWGdGRTRWelZVSTJiNW5sLTlYaGhYTE1YeDhtVUtTWnBSUnhwWW5XVC1EN1JYRWctVHRpalQtSng0RXpBeTNRZ3RfcU4zYUhzVnVGMmJvWDlQZi13VlBhZVl5ampYbzRZ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -1548,7 +1548,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUFIQnVDUHpjcE5GbmR1WUc0NnA2VXY3TnZ3YmdJb2pTai1YVUFNRE8xei1rOUtLaGsxcHRhYnBQN2NYWF9TamlBOTNsY3ZwaXFHaU5mMXlDbi00bGZDTFdpUUJjNVprQS1IOVF4emFjZjlSaFBGQ3JpdHV1MlRtMUp0czJSOVRXcE9maFlzd3puS3d1WF9oUW1seExKYjVuczI3VzI4dXF3eVB6bGZHaWlReTZRQWJCT0hNUllqUQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T18:56:57.367599+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -1571,7 +1571,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWNNQ3hjQ0dZWXBaRDdYbjVXam8tSmp2Y2lCUDhoQjdTTFpuTTVrZUVYcXJ4Z0JSSHVqdTRKdXVxX2dWTHh1bUNwNnFOS0NWTndPcHJFUzB3OHFHSjk1ZUNjZUh5OGRSRGszQ2xuU0N5Zy1GSWdmZGhiVlFrZFZUdWJ6anM?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T18:56:57.367599+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -1617,7 +1617,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1640,7 +1640,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -1709,7 +1709,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjVZT2VqSEQxWUQ4OXNrYkRUOTBSejViLUZvQVJrXzJ5VlNCTi00b3BwMExyZVFfSXVTanY4eXlzbi16eFFGdXpLbEdxdU9DWk1EYzJXcDA1SDB5cGkwdEVIb1pkRzJ3OGFiNzBKUWMzZWhZakUtWXh2WXEtOHdoWnM2NnV1VXpsZ1pzelVxWVRPM3BGM3ZaQnN6cXlGSkkzZXlESQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -1778,7 +1778,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOektXUkczQXNkSXBTQ0t3MkE5R0hjeVV3MW9yTXZERzJjcFlYZGZCcDJ3SkJTNWpFbkZLT3JoMWhZUkg4QXBiUElUNzcweHZUUXJXWTlqNlhnenU2VkpNSWhkWlB3VWlmd3V6bWVkdURyWmU5UW5qWXZNVVp4S2tFRnMzckl4Q3hNM19WTjJlRGNWRno3ZXNMRUVHNkZRWWtwUUhPWDlZSld1QQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
@@ -1870,7 +1870,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FralVFWHl5RnplTUh2TDdyWEVNRWQzVTc4WXNNQXp6blc0al9JWldkSmVybVVhbGNiZHhrNEhJV29LaURQcjhUamd6VUxzV3JsMUpGVkdIM0NfVWU1SGZQenhyb3RSakJpcXgwNWhpSmE3MnFaaTljWHZDRDZMb1QzcW11cGd0UVIyS0kzeTI?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-27T18:39:28.661090+00:00"
     },
     {
@@ -1985,7 +1985,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHZGanBlbHNWRTJJYXpoSFkwVUEzclRkTGJENnljX1RnU2R5SThuYmRHdkRxNWVzM01YanJqT28teF84TVo1ZU9MS1RkTEpaYllXTzRWUmdNNXBWTThZRUhYSkFDNEZLQzFBTXFzMWVlVzJVU0VobWNFQmZEWElyWGlvbXV3aVg4UnlDY3lyZV9xUQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -2008,7 +2008,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV1k1eEt3YzgxX3VKVHRLMDQyNEs5cmVkd01qWVNwTFJjbC1KWVZpOGJQdFBsWDM3eDA4LV9KeGY3QW8wVEMtaTBHSmd4aUhJVHg3VFlqd091cmViTkgtTEJhemdnSVd1eXNNb0pYYkRGb18xa0lzWUFPcm5TZFlPUVRyRU4yem04eXFyUTJnV2ZLbHk5TzNkSFZvVnZ3QzRMcEFLbzI3alNHOXpZbVMtaFc5eTg5alhoQXJYZlJRZVJXVFRSZWNISDZrb2ItWHJ0U29KRnR0NHB4ZHhUMmZZcTRLdHJ6bVBmZW5XTXh3?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -2031,7 +2031,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX1F1bTk5WlhxMWhxMGZZZ0FpN05kdVRFY2tnVTk4eHhTa21yanhQX295N3JONWNudGhYd3RXUEJoS1RUT0cxcl83aTNONlhUM0hLNXNkUEtwdl9Lb19NVXNSY0FkUnc4R01rdW4yY1EyLWZPV0dvUUtnb05IYUhna3VJamJMZXhETHFDM0tPZWR4YzB5Q0JwYlFiOGFGRW1K?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -2054,8 +2054,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOck9WcTZJNHo3QW0xNmdYLTctdVJwQzlWRVdrTmd3cVFNU1BXLWRwNGRxYlZjaHg0dFN4dTQ4ZU5mdldtelJHZC0tUkRjY1prVXpISF9kd3d3bGdoT21YMmY0YTFwYVllNU93YmVGV1hwUUNVV1pHLVJLOFNSQ0lVcmtjX1ZVUVRlaVg3ZXNrbUpoaVdqUW5kZzFwYWhISzlvR2w5THFiUEZHOG9JN2hnS1NyZTN6aUgzZE9mcmxQU1dMSFBGWFJFMmN6ODZaWlU?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T22:37:57.967175+00:00"
+    },
+    {
+      "key": "news:46637a0755f75de3",
+      "name": "Three Firms List on KOSDAQ This Week as IPO Pipeline Stays Busy - Seoul Economic Daily",
+      "symbol": "",
+      "type": "news",
+      "status": "reported",
+      "filing_type": "",
+      "date": "2026-10-25",
+      "date_label": null,
+      "exchange": "",
+      "region": "KR",
+      "region_label": "كوريا الجنوبية",
+      "price": null,
+      "price_range": "",
+      "currency": "",
+      "shares": null,
+      "source": "Seoul Economic Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFJaekRwYlNHSHJrTmhTdVR5amtMQTR6Z2o0TGp3NDB5NE1FaGVDYlZjWGRhMUtlMnpCV1lYWFE2VElIU2ZNUnNuSVZDQ19DalIxMkZKT3UxSzJMR1ZFRTJrcFczYjBPZWp3RmJqVEMtTlF4ei1KS2t4ZDJva3RoSjFXRnZLRGZuT05QT0dORmpsSThpM3hXZHRsZGRuTnpYWGc?oc=5",
+      "confidence": "news",
+      "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
+      "first_seen_at": "2026-10-29T22:40:11.226266+00:00"
     },
     {
       "key": "news:9abbeeb2bc156029",
@@ -2077,7 +2100,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckZhY0N1eVNlUkNxNFpScEFvVkJSckpsZ3YzaVBqYmJ6aS01TFVyd1ZhNnVnaGNvYnJ4X3ktOTlMVVMxOWlPOS1GbUVuWHJjNmFTS1FDdmRtc0t1eWNrU3JPYUx3VllQUW9hU0JHQWVFV3ZqQW50cE1jNkxpbjRRTzJsVmxfMi1HeTA3Ug?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -2146,7 +2169,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVRKTTRoOUl0X2psLVg0RFNaSmxHQ29yUVVoeDVGYUtLbXRqNGVvNVprVC1OcHBUaGducUs3Mk5Ybk8wT0lDQ0U5WFdhYnZHNnpPbm9BM1BYS19uMjlndXlZclBiZTJLN3FZT0tGQnZZX2FSaE1Wbm9ocVIwYTNrc2tuLUVfOWRrYjNFM3c2bzJwWFJrTTA4WkZnM1lGQlA0RGJoQXpxYjN1UQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-27T18:39:28.661090+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T19:13:58.375254+00:00"
     },
     {
@@ -2330,7 +2353,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IYXRyTXdod3lNZ3R4UGY5YnRKOTZxTkJ2dlVKWml1dVVYc3ZPZDNmS0xkTHpkNGdnaExDMnpibllBRTJqSlFvZGNRMTFfdF9nTzBNQ0pLUQ?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -2491,7 +2514,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVE5mVHg3ZWZBclViLUN2M3dMZEhCWFNPYlp1TDBKZVBkdHJPY2MxUlQyM2JyR2pLaHdhQzZ1c2pKczU1YUx3V0lOMFNTMVdYS1MwTmxQaVA5VkNzRUdqZnI4bVcycFR0MlNkZ1k3cFNHN01lZUZpZlVDc2xYS3NKcTFfNXRYNUcyZVpaT0RCclUtQk0tYy1xUlQzNWxncThTTFBzanN3Vnprdw?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -2514,7 +2537,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUW83TURYZHRyUmNjQjRTZVhEeUgwVWR2ZVItRFlPR3dnUnU0YmxBQkhzRGlDQ0VoX3JUMXdwZmd4aksyTnBaQ2F5aHo0ZUt3QVdqbW1zYjRYNTF4YVRnOTQ2c3pzQXl6eU5IdC1jSXlTRTQ4SVpnWC1hNHdzRzh3Rk1OcG53dFA5WEdVQ3hWekRSb2IxU1I2bHp0TTV1OXlHOWxJbWotN2JCLXltYURIbHBuWEtfRDgtb3FvWGRMUWV3WmhUeTdSanBPTFkwclNwTENfZHdJV3M5U00?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -2537,7 +2560,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmZHVm1nLUpabDZHUkJnMzZBMG4yX0xTWk1WbkRSOExBSmNZWllUNGxadEdZMlVpSWEycWZrLVJCMkhjSjMtSUJPOTdOTWJrY250RHB4VE11cElpM3hCcWZzNDZULWNPZDJMRE15WXVSakFTSUhuTXBRbFBxQl9pdlhHNFR5a01UQXFuQWRMVS0zbEp5eWcwdG9RX29pQkRQMmEyQ20tU3lKcUQ0UzJjcW5jMHpJOVBZR0prWENSRlppYldqT3JyaE9HOG5uWG8?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-29T18:56:57.367599+00:00"
     },
     {
@@ -2882,7 +2905,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXZSNnc4YWo1VEZtYzR3ZEFSNk45SVdhd2R3S1ZURHlESDllU1BCY2FLN3IyODlMdEM3dkFSZ0V4MHJVdkV3STdEUGNPWlVVMmdUY1RhSGxmM2p2bzR2REZuMzNoQVVFeEpYckNIWDZzVk1VMTJmbFEwUGRHQzlreWtRV3RxUmlKaUdfQUNXcWQzUXh0RUl2TG9La3VoUjJqU3lGeFM1LVFQTGtqR0lXUkgwQnHSAboBQVVfeXFMUEVCR3RZM3ozWWZBdVFCN2VNcDNKVERzc3FDbVo0ekR1bXBraGktZEw4LXdIR1VFcnhuVXBkVl9ZRXpJWUVIOU1mOERNV1Nlc3VWZkw3a2x2clFLUzgwVzhwRkVVZHIyMmZ2Y1NKVWgzekg4ek54Vm5rSXdpa1RLTmt1eHhxSXFkUVJlSVI4cUdUYVhud2JybVZWS2tDNGFrMS16cVRxdnFKeW9kTldPcHN0MjFOR3ZHQjNB?oc=5",
       "confidence": "news",
       "note": "عنوان خبر عن اكتتاب محتمل في نطاق البحث. ليس تأكيد إدراج؛ تحقق من الشركة والجهة المنظمة.",
-      "last_seen_at": "2026-10-28T18:48:49.619018+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -3733,7 +3756,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -3756,7 +3779,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-29T22:37:57.967175+00:00",
+      "last_seen_at": "2026-10-29T22:40:11.226266+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -3957,6 +3980,7 @@
     "news:b91b8862b1fb6662",
     "news:7631e068a6e61c31",
     "news:2b9690cf71aa6535",
-    "news:248624660b665f07"
+    "news:248624660b665f07",
+    "news:46637a0755f75de3"
   ]
 }
