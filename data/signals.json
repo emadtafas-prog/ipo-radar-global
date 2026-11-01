@@ -1,20 +1,9 @@
 {
-  "generated_at": "2026-10-31T17:40:51.171586+00:00",
+  "generated_at": "2026-11-01T18:25:03.840766+00:00",
   "description": "Official filings, exchange pages, calendars and clearly labeled unverified news — research leads only.",
   "active_sources": [
     "Euronext",
-    "London Stock Exchange",
-    "أخبار ألمانيا",
-    "أخبار الهند",
-    "أخبار هونغ كونغ",
-    "أخبار السعودية",
-    "أخبار الإمارات",
-    "أخبار اليابان",
-    "أخبار كوريا الجنوبية",
-    "أخبار كندا",
-    "أخبار أستراليا",
-    "أخبار سنغافورة",
-    "أخبار البرازيل"
+    "London Stock Exchange"
   ],
   "source_status": [
     {
@@ -49,81 +38,93 @@
       "name": "أخبار ألمانيا",
       "type": "news",
       "region": "DE",
-      "status": "ok",
+      "status": "error",
       "count": 0
     },
     {
       "name": "أخبار الهند",
       "type": "news",
       "region": "IN",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار هونغ كونغ",
       "type": "news",
       "region": "HK",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار السعودية",
       "type": "news",
       "region": "SA",
-      "status": "ok",
+      "status": "error",
       "count": 0
     },
     {
       "name": "أخبار الإمارات",
       "type": "news",
       "region": "AE",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار اليابان",
       "type": "news",
       "region": "JP",
-      "status": "ok",
+      "status": "error",
       "count": 0
     },
     {
       "name": "أخبار كوريا الجنوبية",
       "type": "news",
       "region": "KR",
-      "status": "ok",
-      "count": 3
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار كندا",
       "type": "news",
       "region": "CA",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار أستراليا",
       "type": "news",
       "region": "AU",
-      "status": "ok",
-      "count": 8
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار سنغافورة",
       "type": "news",
       "region": "SG",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار البرازيل",
       "type": "news",
       "region": "BR",
-      "status": "ok",
+      "status": "error",
       "count": 0
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    "أخبار ألمانيا: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Frankfurt+OR+Germany%29+%",
+    "أخبار الهند: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28India+OR+NSE+OR+BSE%29+IP",
+    "أخبار هونغ كونغ: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Hong+Kong+OR+HKEX%29+IPO%",
+    "أخبار السعودية: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Saudi+OR+Tadawul%29+%28IP",
+    "أخبار الإمارات: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Dubai+OR+Abu+Dhabi+OR+DFM",
+    "أخبار اليابان: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Tokyo+OR+Japan%29+IPO%29+",
+    "أخبار كوريا الجنوبية: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Korea+OR+KOSDAQ%29+IPO%29",
+    "أخبار كندا: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Toronto+OR+TSX+OR+Canada%",
+    "أخبار أستراليا: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Australia+OR+ASX%29+IPO%2",
+    "أخبار سنغافورة: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28SGX+OR+Singapore%29+IPO%2",
+    "أخبار البرازيل: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%28Brasil+OR+Brazil+OR+B3%29"
+  ],
   "items": [
     {
       "key": "news:fc3d805ad46f9e9b",
@@ -789,7 +790,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-31T17:40:51.171586+00:00",
+      "last_seen_at": "2026-11-01T18:25:03.840766+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -2169,7 +2170,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-31T17:40:51.171586+00:00",
+      "last_seen_at": "2026-11-01T18:25:03.840766+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -2192,7 +2193,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-31T17:40:51.171586+00:00",
+      "last_seen_at": "2026-11-01T18:25:03.840766+00:00",
       "first_seen_at": "2026-10-28T18:48:49.619018+00:00"
     },
     {
@@ -4354,7 +4355,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-31T17:40:51.171586+00:00",
+      "last_seen_at": "2026-11-01T18:25:03.840766+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
@@ -4377,7 +4378,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-10-31T17:40:51.171586+00:00",
+      "last_seen_at": "2026-11-01T18:25:03.840766+00:00",
       "first_seen_at": "2026-10-26T10:04:39.714723+00:00"
     },
     {
