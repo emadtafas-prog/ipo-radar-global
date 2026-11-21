@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-11-20T21:01:45.805193+00:00",
+  "generated_at": "2026-11-21T20:03:34.740858+00:00",
   "description": "Official filings, exchange pages, calendars and clearly labeled unverified news — research leads only.",
   "active_sources": [
     "Euronext",
-    "London Stock Exchange",
-    "أخبار ألمانيا",
-    "أخبار الهند",
-    "أخبار هونغ كونغ",
-    "أخبار السعودية",
-    "أخبار الإمارات",
-    "أخبار أستراليا",
-    "أخبار سنغافورة",
-    "أخبار البرازيل"
+    "London Stock Exchange"
   ],
   "source_status": [
     {
@@ -46,36 +38,36 @@
       "name": "أخبار ألمانيا",
       "type": "news",
       "region": "DE",
-      "status": "ok",
+      "status": "error",
       "count": 0
     },
     {
       "name": "أخبار الهند",
       "type": "news",
       "region": "IN",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار هونغ كونغ",
       "type": "news",
       "region": "HK",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار السعودية",
       "type": "news",
       "region": "SA",
-      "status": "ok",
+      "status": "error",
       "count": 0
     },
     {
       "name": "أخبار الإمارات",
       "type": "news",
       "region": "AE",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار اليابان",
@@ -102,28 +94,36 @@
       "name": "أخبار أستراليا",
       "type": "news",
       "region": "AU",
-      "status": "ok",
-      "count": 3
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار سنغافورة",
       "type": "news",
       "region": "SG",
-      "status": "ok",
-      "count": 10
+      "status": "error",
+      "count": 0
     },
     {
       "name": "أخبار البرازيل",
       "type": "news",
       "region": "BR",
-      "status": "ok",
+      "status": "error",
       "count": 0
     }
   ],
   "source_errors": [
-    "أخبار اليابان: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%28Tokyo+OR+Japan%29+IPO%29+wh",
-    "أخبار كوريا الجنوبية: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%28Korea+OR+KOSDAQ%29+IPO%29+w",
-    "أخبار كندا: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%28Toronto+OR+TSX+OR+Canada%29"
+    "أخبار ألمانيا: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار الهند: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار هونغ كونغ: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار السعودية: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار الإمارات: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار اليابان: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار كوريا الجنوبية: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار كندا: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار أستراليا: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار سنغافورة: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs",
+    "أخبار البرازيل: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rs"
   ],
   "items": [
     {
@@ -146,7 +146,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "اكتتاب قادم بحسب صفحة Euronext الرسمية؛ الموعد قابل للتعديل.",
-      "last_seen_at": "2026-11-20T21:01:45.805193+00:00",
+      "last_seen_at": "2026-11-21T20:03:34.740858+00:00",
       "first_seen_at": "2026-11-19T21:26:14.161416+00:00"
     },
     {
@@ -1020,7 +1020,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-11-20T21:01:45.805193+00:00",
+      "last_seen_at": "2026-11-21T20:03:34.740858+00:00",
       "first_seen_at": "2026-11-17T21:44:24.301679+00:00"
     },
     {
@@ -6218,7 +6218,7 @@
       "source_url": "https://live.euronext.com/en/products/equities/ipos",
       "confidence": "official",
       "note": "إدراج سابق بحسب صفحة Euronext؛ تحقق من رمز التداول وتوفره لدى الوسيط.",
-      "last_seen_at": "2026-11-20T21:01:45.805193+00:00",
+      "last_seen_at": "2026-11-21T20:03:34.740858+00:00",
       "first_seen_at": "2026-11-04T20:24:26.670976+00:00"
     },
     {
